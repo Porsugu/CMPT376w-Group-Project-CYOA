@@ -25,6 +25,7 @@ An engineer responds: "The system has 91% accuracy. But we do acknowledge thereâ
 [[Push for manual review of flagged individuals->ManualReview]]
 [[Support the project despite risks->SupportWithRisks]]
 [[Stay silent->SilentComplicity]]
+[[Ask if system is being used for political targeting->PoliticalUse]]
 
 
 
@@ -104,6 +105,26 @@ You express concerns about civil liberties and AI misuse. Some engineers nod in 
 
 [[Suggest adding oversight and accountability->ManualReview]]
 [[Withdraw from project->Resign]]
+
+
+:: OversightBoard {"position":"1500,700","size":"100,100"}
+You help write internal policy that limits political targeting. The system is still risky, but less vulnerable to authoritarian abuse.
+
+[[Move to testing phase->Crisis]]
+
+
+:: PolicyLimits {"position":"1500,575","size":"100,100"}
+You propose codifying safeguards to prevent political misuse. Leadership resists but agrees to consider it under internal review.
+
+[[Join oversight board to enforce it->OversightBoard]]
+[[Let others handle it->Crisis]]
+
+
+:: PoliticalUse {"position":"1500,450","size":"100,100"}
+A junior developer reveals quietly, "Thereâ€™s pressure from certain officials to use the system to monitor activists." You realize the implications.
+
+[[Push for strict policy limits->PolicyLimits]]
+[[Ignore and stay focused on technical performance->SilentComplicity]]
 
 
 :: PositiveSupport {"position":"1262.5,1025","size":"100,100"}
