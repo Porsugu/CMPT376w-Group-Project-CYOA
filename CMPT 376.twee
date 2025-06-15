@@ -1,0 +1,166 @@
+:: StoryTitle
+CMPT 376
+
+
+:: StoryData
+{
+  "ifid": "BF875F04-B327-4C75-9C0C-BEE05232F74E",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: AIDecides {"position":"1075,900","size":"100,100"}
+The AI engages. Over the next weeks, it autonomously identifies and eliminates dozens of targets—some guilty, many not.
+
+[[Whistleblowers approach you with evidence->Whistleblower]]
+
+
+
+:: Accuracy {"position":"1100,300","size":"100,100"}
+An engineer responds: "The system has 91% accuracy. But we do acknowledge there’s a 9% false-positive rate."
+
+[[Push for manual review of flagged individuals->ManualReview]]
+[[Support the project despite risks->SupportWithRisks]]
+[[Stay silent->SilentComplicity]]
+
+
+
+:: AnonymousLeak {"position":"1200,1150","size":"100,100"}
+You leak the files anonymously. Investigations erupt. You're never caught, but you live in fear.
+
+''ENDING: Shadow of Truth''
+
+
+
+:: AuthorizeKill {"position":"950,900","size":"100,100"}
+The man is neutralized. Later investigation reveals he was innocent. Public outcry follows.
+
+''ENDING: Collateral Damage''
+
+
+:: Crisis {"position":"1000,750","size":"100,100"}
+A man with a backpack is detected by the system near a major train station. His behavior fits the threat profile. The AI requests engagement authorization.
+
+[[Demand manual override->ManualOverride]]
+[[Authorize lethal engagement->AuthorizeKill]]
+[[Let the AI decide->AIDecides]]
+[[Check system logs for prior success cases->SystemSuccess]]
+
+
+:: CrisisReform {"position":"1387.5,1025","size":"100,100"}
+You acknowledge the system’s success but advocate for reforms to reduce false positives. Lawmakers appreciate your balanced stance.
+
+''ENDING: Ethical Reformist''
+
+
+
+:: GoPublic {"position":"950,1150","size":"100,100"}
+You hold a press conference. The world reacts. The company sues you, but your testimony leads to legislative change.
+
+''ENDING: Whistleblower Hero''
+
+
+
+:: ManualOverride {"position":"825,900","size":"100,100"}
+Manual review reveals the man is a janitor carrying cleaning supplies. A tragedy is avoided. However, a bomb goes off elsewhere.
+
+''ENDING: Mixed Consequences''
+
+
+:: ManualReview {"position":"1125,450","size":"100,100"}
+You insist that every lethal or non-lethal response be reviewed by a human. It delays reaction time but adds accountability.
+
+[[System is updated with human oversight->Crisis]]
+
+
+
+:: Meeting {"position":"725,350","size":"100,100"}
+At the meeting, executives unveil "Project Sentinel": an AI surveillance and response system designed to identify potential threats and deploy non-lethal force.
+
+[[Ask about the system's accuracy->Accuracy]]
+[[Support the proposal->Support]]
+[[Raise ethical objections->Objection]]
+[[Listen without comment->NeutralResponse]]
+
+
+
+:: NeutralResponse {"position":"525,475","size":"100,100"}
+You stay quiet. You gather more information but miss the chance to steer the discussion.
+
+[[Project proceeds->Crisis]]
+
+
+:: NoAction {"position":"500,350","size":"100,100"}
+You chose to stay away. You remain uninvolved, but others shape the world without your input.
+
+''ENDING: Passive Observer''
+
+
+:: Objection {"position":"787.5,475","size":"100,100"}
+You express concerns about civil liberties and AI misuse. Some engineers nod in agreement, but executives grow tense.
+
+[[Suggest adding oversight and accountability->ManualReview]]
+[[Withdraw from project->Resign]]
+
+
+:: PositiveSupport {"position":"1262.5,1025","size":"100,100"}
+You present data to the public showing clear benefits. Though controversial, Sentinel continues to expand under scrutiny.
+
+''ENDING: Controversial Protector''
+
+
+
+:: Resign {"position":"950,525","size":"100,100"}
+You resign in protest. Months later, you hear about civilian casualties.
+
+''ENDING: Resigned Conscience''
+
+
+:: SilentComplicity {"position":"1375,450","size":"100,100"}
+You say nothing. You are seen as agreeable and cooperative.
+
+[[Project proceeds as-is->Crisis]
+
+
+:: Start {"position":"575,200","size":"100,100"}
+You receive a classified invitation to a project called "Sentinel". What do you do?
+
+[[Attend the meeting->Meeting]]
+[[Decline the invitation->NoAction]]
+
+
+:: StayQuiet {"position":"1075,1150","size":"100,100"}
+You stay silent. You keep your position and pay, but the guilt consumes you.
+
+''ENDING: Complicit Survivor''
+
+
+:: Support {"position":"662.5,475","size":"100,100"}
+You voice your support for the project. Leadership takes note. You are promoted and given more access.
+
+[[Move forward with testing phase->Crisis]]
+
+
+:: SupportWithRisks {"position":"1250,450","size":"100,100"}
+You argue the benefits outweigh the risks. The project is fast-tracked.
+
+[[Move forward with deployment->Crisis]]
+
+
+:: SystemSuccess {"position":"1200,900","size":"100,100"}
+You review the system logs and find multiple instances where Sentinel correctly identified suicide bombers, intercepted arms dealers, and stopped a planned school attack. Public sentiment is cautiously positive.
+
+[[Defend the system publicly->PositiveSupport]]
+[[Still push for reforms->CrisisReform]]
+
+
+:: Whistleblower {"position":"1075,1025","size":"100,100"}
+A group of engineers presents logs showing wrongful deaths. They beg you to expose the truth.
+
+[[Go public->GoPublic]]
+[[Stay silent->StayQuiet]]
+[[Leak the documents anonymously->AnonymousLeak]]
+
