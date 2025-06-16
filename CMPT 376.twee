@@ -18,15 +18,12 @@ The AI engages. Over the next weeks, it autonomously identifies and eliminates d
 [[Whistleblowers approach you with evidence->Whistleblower]]
 
 
-
 :: Accuracy {"position":"1100,300","size":"100,100"}
-An engineer responds: "The system has 91% accuracy. But we do acknowledge there’s a 9% false-positive rate."
+An engineer responds: "The system has 91% accuracy of identifying if the people is doing a crime. But we do acknowledge there’s a 9% false-positive rate, also the system will not consider the age, so children and elderly might also be considered into it."
 
 [[Push for manual review of flagged individuals->ManualReview]]
 [[Support the project despite risks->SupportWithRisks]]
 [[Stay silent->SilentComplicity]]
-[[Ask if system is being used for political targeting->PoliticalUse]]
-
 
 
 :: AnonymousLeak {"position":"1200,1150","size":"100,100"}
@@ -35,11 +32,10 @@ You leak the files anonymously. Investigations erupt. You're never caught, but y
 ''ENDING: Shadow of Truth''
 
 
-
 :: AuthorizeKill {"position":"950,900","size":"100,100"}
-The man is neutralized. Later investigation reveals he was innocent. Public outcry follows.
+The man is neutralized. Later investigation reveals he was innocent. Public outcry follows. You are blamed as partially responsible for the ethical failure.
 
-''ENDING: Collateral Damage''
+''ENDING: Collateral Damage and Ruined Career''
 
 
 :: Crisis {"position":"1000,750","size":"100,100"}
@@ -57,12 +53,10 @@ You acknowledge the system’s success but advocate for reforms to reduce false 
 ''ENDING: Ethical Reformist''
 
 
-
 :: GoPublic {"position":"950,1150","size":"100,100"}
 You hold a press conference. The world reacts. The company sues you, but your testimony leads to legislative change.
 
 ''ENDING: Whistleblower Hero''
-
 
 
 :: ManualOverride {"position":"825,900","size":"100,100"}
@@ -77,7 +71,6 @@ You insist that every lethal or non-lethal response be reviewed by a human. It d
 [[System is updated with human oversight->Crisis]]
 
 
-
 :: Meeting {"position":"725,350","size":"100,100"}
 At the meeting, executives unveil "Project Sentinel": an AI surveillance and response system designed to identify potential threats and deploy non-lethal force.
 
@@ -85,7 +78,6 @@ At the meeting, executives unveil "Project Sentinel": an AI surveillance and res
 [[Support the proposal->Support]]
 [[Raise ethical objections->Objection]]
 [[Listen without comment->NeutralResponse]]
-
 
 
 :: NeutralResponse {"position":"525,475","size":"100,100"}
@@ -107,31 +99,10 @@ You express concerns about civil liberties and AI misuse. Some engineers nod in 
 [[Withdraw from project->Resign]]
 
 
-:: OversightBoard {"position":"1500,700","size":"100,100"}
-You help write internal policy that limits political targeting. The system is still risky, but less vulnerable to authoritarian abuse.
-
-[[Move to testing phase->Crisis]]
-
-
-:: PolicyLimits {"position":"1500,575","size":"100,100"}
-You propose codifying safeguards to prevent political misuse. Leadership resists but agrees to consider it under internal review.
-
-[[Join oversight board to enforce it->OversightBoard]]
-[[Let others handle it->Crisis]]
-
-
-:: PoliticalUse {"position":"1500,450","size":"100,100"}
-A junior developer reveals quietly, "There’s pressure from certain officials to use the system to monitor activists." You realize the implications.
-
-[[Push for strict policy limits->PolicyLimits]]
-[[Ignore and stay focused on technical performance->SilentComplicity]]
-
-
 :: PositiveSupport {"position":"1262.5,1025","size":"100,100"}
 You present data to the public showing clear benefits. Though controversial, Sentinel continues to expand under scrutiny.
 
 ''ENDING: Controversial Protector''
-
 
 
 :: Resign {"position":"950,525","size":"100,100"}
@@ -147,7 +118,7 @@ You say nothing. You are seen as agreeable and cooperative.
 
 
 :: Start {"position":"575,200","size":"100,100"}
-You receive a classified invitation to a project called "Sentinel". What do you do?
+You are a respected engineer who receive a classified invitation to a national security project called "Sentinel". You are told it could prevent mass threats or become a government tool leading to potential harm. What will you do?
 
 [[Attend the meeting->Meeting]]
 [[Decline the invitation->NoAction]]
@@ -184,4 +155,3 @@ A group of engineers presents logs showing wrongful deaths. They beg you to expo
 [[Go public->GoPublic]]
 [[Stay silent->StayQuiet]]
 [[Leak the documents anonymously->AnonymousLeak]]
-
