@@ -17,7 +17,8 @@ CMPT 376
     "Accuracy": "orange",
     "Support": "orange",
     "Objection": "red",
-    "NeutralResponse": "blue"
+    "NeutralResponse": "blue",
+    "Crisis": "purple"
   },
   "zoom": 1
 }
@@ -30,20 +31,18 @@ The AI engages. Over the next weeks, it autonomously identifies and eliminates d
 
 
 :: Accuracy [Accuracy] {"position":"1100,300","size":"100,100"}
-(enchant:?page,(bg: (gradient: 0,0, #F9D5E5,0.30, #3B3839,1, #000000)))
-
 You feel curious about the accuracy rate of the system works. An engineer responds: "The system has 91% accuracy..." You notice the hesitation of the engineer before answering, when you look at him, he tries to avoid eye conatct. 
 
 After a short scients, he continues "But we do acknowledge there’s a 9% false-positive rate. Hem... that means there will be some innocent will be threatened by the sonic pulses or electrical deterrents. Yet, we are... still working on it to minimize the percentage as much as we can!"
 
 One of the engineer continues, "Which means... every 11 people that has been marked, there is 1 who actually does not cause any threads to the society. To make a better understanding, with a medium sized downtown city, there's about 450 innocent people per day would be subjected to automated force."
 
-Untill now, you would...
+Untill now, you will...
 
-[[Push for manual review of flagged individuals->ManualReview]]
-[[Support the project despite risks->SupportWithRisks]]
-[[Stay silent->SilentComplicity]]
-[[Ask if system is being used for political targeting->PoliticalUse]]
+(text-colour:#F9D5E5)[[Push for manual review of flagged individuals->ManualReview]]
+(text-colour:#F6D282)[[Support the project despite risks->SupportWithRisks]]
+(text-colour:#88CAFC)[[Stay silent->SilentComplicity]]
+(text-colour:#88FCEB)[[Ask if system is being used for political targeting->PoliticalUse]]
 
 
 :: AnonymousLeak {"position":"1200,1150","size":"100,100"}
@@ -53,28 +52,29 @@ You leak the files anonymously. Investigations erupt. You're never caught, but y
 
 (text-colour:#f67280)[[Game End ->End game]]
 
-(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
-
 
 
 :: AuthorizeKill {"position":"950,900","size":"100,100"}
-The man is neutralized. Later investigation reveals he was innocent. Public outcry follows. You are blamed as partially responsible for the ethical failure.
+The man is neutralized.
+
+Days later, the investigation confirms he was innocent. The media reacts with anger. News reports criticize the operation, and protests start in the streets. Soon, your name is dragged into the spotlight. You are marked as partially responsible for the ethical failure.
+
+The scandal ends your career, but the memory of those affected stays with you.
 
 ''ENDING: Collateral Damage and Ruined Career''
 
 (text-colour:#f67280)[[Game End ->End game]]
 
-(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
 
 
 
-:: Crisis {"position":"600,825","size":"100,100"}
-A man with a backpack is detected by the system near a major train station. His behavior fits the threat profile. The AI requests engagement authorization.
+:: Crisis [Crisis] {"position":"825,650","size":"100,100"}
+A man with a backpack is detected by the system near a major train station where your daughter often transfers. The AI flags him as a high-probability threat. His behavior fits the threat profile. The AI requests engagement authorization. You must decide now.
 
-[[Demand manual override->ManualOverride]]
-[[Authorize lethal engagement->AuthorizeKill]]
-[[Let the AI decide->AIDecides]]
-[[Check system logs for prior success cases->SystemSuccess]]
+(text-color:#1ABC9C)[[Demand manual override->ManualOverride]]
+(text-color:#DC143C)[[Authorize lethal engagement->AuthorizeKill]]
+(text-color:#4682B4)[[Check system logs for prior success cases->SystemSuccess]]
+(text-color:#B0B0B0)[[Let the AI decide->AIDecides]]
 
 
 :: CrisisReform {"position":"1387.5,1025","size":"100,100"}
@@ -84,18 +84,19 @@ You acknowledge the system’s success but advocate for reforms to reduce false 
 
 (text-colour:#f67280)[[Game End ->End game]]
 
-(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
-
 
 
 :: End game [End-Game] {"position":"300,1200","size":"100,100"}
-Whatever choice you made in this story and scenarios, the most important thing is that you make the most ethical choice by your heart. These ethical questions rarely have clear-cut answers, no matter how we keep thinking about them. Thank you for your thoughtful engagement. 
+Thank you for playing.
+
+Whatever choices you made in this story, the most important thing is that you reflected on what felt most ethical to you. These dilemmas rarely have just one right answer, even when we think them through over and over.
 
 If you wanna look again with the ethical case, please click "(link: "Automated Active Response Weaponry")[(goto-url: ' https://www.acm.org/code-of-ethics/case-studies/automated-active-response-weaponry ')]" created by the ACM Committee on Professional Ethics.
 
 ** add a Thank you GIF here **
 
-Click to play the scenario story again(b4r:"groove")+(b4r-colour:blue)+(text-colour:#DC3C22)[[👉Start your Fate Here🧐->Start]]
+Ready to play again?
+(b4r:"groove")+(b4r-colour:blue)+(text-colour:#DC3C22)[[👉Start your Fate Here🧐->Start]]
 
 
 :: GoPublic {"position":"950,1150","size":"100,100"}
@@ -104,8 +105,6 @@ You hold a press conference. The world reacts. The company sues you, but your te
 ''ENDING: Whistleblower Hero''
 
 (text-colour:#f67280)[[Game End ->End game]]
-
-(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
 
 
 
@@ -120,45 +119,49 @@ Manual review reveals the man is a janitor carrying cleaning supplies. A tragedy
 
 
 
-:: ManualReview {"position":"1125,450","size":"100,100"}
-You insist that every lethal or non-lethal response be reviewed by a human. It delays reaction time but adds accountability.
+:: ManualReview [Accuracy Crisis] {"position":"1125,450","size":"100,100"}
+You insist that every lethal or non-lethal response be reviewed by a human. The room immediently erupts in murmurs. "It violates the primary goal of making the system to be fully automated!" The head of the engineer department disagrees,"Every second the reaction time delays would affact the public's life!"
 
-[[System is updated with human oversight->Crisis]]
+Project manager holds his head and shakes," This means we have to hire another 200 employees, with 3 shifts to deal iwth the manual review. We still haven't counted the cost of making a system for delay reviews."
+
+You admitted with the high cost it causes, yet you also emphasis the ethical responsibility that manual review could ensure no one who are innocent would be killed. "We are talking about 450 innocents daily. If we making the system without manual review, those people would loose their lifes, could all of you in this room accept this?" Everyone keeps in scilents, some executive moved their bodies. The CEO nods slowly and make the decision of implementing with mandatory human reviews. 
+
+The updated system includes human oversighted protocols which every deployment now requires approval from a trained oeprator within 30 seconds
+
+(text-colour:#ADA3C9)[[▶️System is updated with human oversight->Crisis]]
 
 
 :: Meeting [Choice Accuracy Support Objection NeutralResponse] {"position":"475,350","size":"100,100"}
-(enchant:?page,(bg: (gradient: 0,0, #95f3b1,0.45, #1F3625,1, #000000)))
+At the meeting, you find yourself among the top executives. One steps forward, unveiling Project Sentinel: an AI-driven surveillance and response system.
 
-At the meeting, you discover all the executives are being gathered. One of them unveils the "Project Sentinel": an AI-driven surveillance and response system. 
+“It’s designed to run across public and private spaces,” he says, “using advanced behavioral analysis and predictive algorithms to detect potential threats. Most impressive, it can autonomously deploy non-lethal force: sonic pulses, electrical deterrents, targeted containment — all without human oversight.”
 
-" Project Sentinel use to run in public and priavte areas, wth its advanced behavioral anaslysis and predictive algorithms to identify potential threats. 
+As the presentation fades, unease stirs inside you. Is this a breakthrough for public safety, or a dangerous step toward unchecked control?
 
-Also, one of the most attractive point is its automated deplotment of non-lethal force. This system could work by themselves autometically without any human monitoring, using sonic pulses, electrical deterrents and targeted containment measures to deal with the people. "
+What will you do?
 
-When you saw the introduction shows on the screen, you got some questions about it, and you would...
-
-(text-colour:#F9D5E5)[[❓Ask about the system's accuracy->Accuracy]]
-(text-colour:#F6D282)[[👍Sounds good, support! ->Support]]
-(text-colour:#CD6C84)[[🙅Say no, raise ethical objections->Objection]]
-(text-colour:#315C7D)[[🤐Listen without commenting the proposal->NeutralResponse]]
+(text-color:#1ABC9C)[[👍Voice your support — this could save lives->Support]]
+(text-color:#DC143C)[[🙅Raise your ethical objections->Objection]]
+(text-color:#4682B4)[[❓Ask about the system’s accuracy->Accuracy]]
+(text-color:#B0B0B0)[[🤐Stay silent and observe->NeutralResponse]]
 
 
-:: NeutralResponse {"position":"350,475","size":"100,100"}
-(enchant:?page,(bg: (gradient: 0,0, #315C7D,0.45, #1F3625,1, #000000)))
+:: NeutralResponse [NeutralResponse Crisis] {"position":"350,475","size":"100,100"}
+An engineer responds cautiously, “The system has a 91% accuracy rate...” You catch the brief hesitation in his voice, and when someone glances his way, he quickly looks down, avoiding eye contact.
 
-An engineer responds: "The system has 91% accuracy..." You notice the hesitation of the engineer before answering, when someone looks at him, he tries to avoid eye conatct. 
+After a strained pause, he adds, “Of course, we acknowledge there’s a 9% false-positive rate. That means... some innocent people could be mistakenly targeted — threatened by sonic pulses, electrical deterrents. We’re... still working to minimize that number.”
 
-After a short scients, he continues "But we do acknowledge there’s a 9% false-positive rate. Hem... that means there will be some innocent will be threatened by the sonic pulses or electrical deterrents. Yet, we are... still working on it to minimize the percentage as much as we can!"
+Another engineer chimes in, voice lower, “To put it simply... for every 11 people flagged, one poses no real threat. In a medium-sized downtown, that’s about 450 innocent people per day exposed to automated force.”
 
-One of the engineer continues, "Which means... every 11 people that has been marked, there is 1 who actually does not cause any threads to the society. To make a better understanding, with a medium sized downtown city, there's about 450 innocent people per day would be subjected to automated force."
+You stay silent, absorbing the information, but you realize you have missed your chance to steer the discussion.
 
-You stay quiet. You gather more information but miss the chance to steer the discussion.
-
-[[Project proceeds->Crisis]]
+(text-colour:#ADA3C9)[[▶️Project proceeds->Crisis]]
 
 
 :: NoAction But options [No-action Choice] {"position":"325,275","size":"100,100"}
-You chose to stay away and remain uninvolved, and try to excape from this topic as you don't know what you are trying to deal with. Your boss feels disappointed with you, although you worked there for such a long time, but you recieved a resign letter from your boss. When you look at the letter, your boss give you choices :
+You chose to stay away and remain uninvolved, and try to excape from this topic as you don't know what you are trying to deal with. Your boss feels disappointed with you, although you worked there for such a long time, but you recieved a resign letter from your boss.
+
+This job has a 9k monthly salaries ( THATS A LOT!!!). If you loose this job, its hard for your life.  But you still struggling about this project. When you look at the letter, your boss give you choices :
 
 (text-colour:#95f3b1)[[🏃Go for the meeting and Reject the resign letter and->Meeting]]
 (text-colour:#f67280)[[❎Decline the invitation->Resign at first]]
@@ -166,11 +169,11 @@ You chose to stay away and remain uninvolved, and try to excape from this topic 
 
 
 
-:: Objection {"position":"725,450","size":"100,100"}
+:: Objection [Accuracy Objection No-action] {"position":"775,450","size":"100,100"}
 You express concerns about civil liberties and AI misuse. Some engineers nod in agreement, but executives grow tense.
 
-[[Suggest adding oversight and accountability->ManualReview]]
-[[Withdraw from project->Resign]]
+(text-color:#1ABC9C)[[Suggest adding oversight and accountability->ManualReview]]
+(text-color:#DC143C)[[Withdraw from project->Resign]]
 
 
 :: OversightBoard {"position":"1500,700","size":"100,100"}
@@ -200,50 +203,51 @@ You present data to the public showing clear benefits. Though controversial, Sen
 
 (text-colour:#f67280)[[Game End ->End game]]
 
-(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
 
 
 
-:: Resign [No-action] {"position":"425,800","size":"100,100"}
+:: Resign [No-action] {"position":"450,800","size":"100,100"}
 You resign in protest. Months later, you hear about civilian casualties.
 
 ''ENDING: Resigned Conscience''
 
 (text-colour:#f67280)[[Game End ->End game]]
 
-(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
-
 
 
 :: Resign at first [No-action] {"position":"225,525","size":"100,100"}
 
-You remauins the same, tries to observe everything and become an observer. You keep the resign letter and start packing stuffs. You choose to stay away and remain scilents, as you think it is too heavy for you, but others shape the world without your input.
+You remains the same, tries to observe everything and become an observer. You keep the resign letter and start packing stuffs. You choose to stay away and remain scilents, as you think it is too heavy for you, but others shape the world without your input.
 
 ''ENDING: You are actually a Passive Observer (sad face emoji)''
 <!--(need a photo about an observer that is for nothing to do-->
 
 (text-colour:#f67280)[[Game End ->End game]]
 
-(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
 
+:: SilentComplicity [Accuracy Crisis] {"position":"1375,450","size":"100,100"}
+You say nothing, despite the discussion all around you. Sounds, noise makes you thinking, but still you choose to keep in silence. You understand that your silence is a kind of strategy, you don't agree, at the same time you don't objectthe project, just stay between both. You keep having eye contact, and nod your head in some time, showing a considerate expression. 
 
+The executive treat your silence as agreeable and cooperative, they interpretate it as professional discretion and company loyalty, earning you a reputation as someone who can be trusted with sensitive informations
 
-:: SilentComplicity {"position":"1375,475","size":"100,100"}
-You say nothing. You are seen as agreeable and cooperative.
-
-[[Project proceeds as-is->Crisis]]
+(text-colour:#ADA3C9)[[▶️Project proceeds as-is->Crisis]]
 
 
 
 
 :: Start {"position":"700,0","size":"100,100"}
+You are a respected engineer at one of the world’s largest companies, Intel.
 
-You are a respected engineer working in one of the largest world company, Intel. When you wake up, you grab your phone and checking emails, trying to start a hard day. But there's an invetation email which has been sent by NVIDEA. After you clicked in, you dis
+One morning, as you scroll through your inbox, a strange subject line catches your eye: “Classified Invitation — Project Sentinel.” It’s from NVIDIA.
 
-You are a respected engineer who receive a classified invitation to a national security project called "Sentinel". You are told it could prevent mass threats or become a government tool leading to potential harm. What will you do?
+The email outlines a national security initiative claiming it can prevent mass threats. But as you read, doubts creep in — could this powerful system also be misused as a tool of control and harm?
 
-[[🏃Attend the meeting->Meeting]]
-[[❎Decline the invitation->NoAction But options]]
+You are left with a choice that could change the future.
+
+What will you do?
+
+(text-color:#1ABC9C)[[🏃Attend the meeting->Meeting]]
+(text-color:#DC143C)[[❎Decline the invitation->NoAction But options]]
 
 
 :: Start Story Here [Introduciton-] {"position":"500,0","size":"100,100"}
@@ -270,20 +274,23 @@ You stay silent. You keep your position and pay, but the guilt consumes you.
 
 (text-colour:#f67280)[[Game End ->End game]]
 
-(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
 
 
 
-:: Support {"position":"525,500","size":"100,100"}
-You voice your support for the project. Leadership takes note. You are promoted and given more access.
+:: Support [Support Crisis] {"position":"525,500","size":"100,100"}
+You voice your support for the project, emphasising the potential of saving lifes and reducing crimes in the city. All of a suddent, the room's atmosphere shifts, servereal executive nod and approve while others exchenging their concern glance. The CEO make a note on his tablet. 
 
-[[Move forward with testing phase->Crisis]]
+Within a week, you reserved a promotion to Senior Operation Director. When you returned to the office, your colleagues look at you, you discover that a new security clearance badge lies on your desk. You has been granted access to restricted floors and secrete projet files. You are also being invited to join the testing group and provide advices. 
+
+(text-colour:#ADA3C9)[[Heading out to the testing group->Crisis]]
 
 
-:: SupportWithRisks {"position":"1250,450","size":"100,100"}
-You argue the benefits outweigh the risks. The project is fast-tracked.
+:: SupportWithRisks [Accuracy Crisis] {"position":"1250,450","size":"100,100"}
+You argues that the benefit outweigh the risks, "The potential to save lifes and prevent crimes justifies the statistical margin of errors. We can't let statistical imperfection prevent us from protecting innocent lives. We can't wait until there is a perfect accuracy even there are people dies everyday because of the security problem!" Everyone stands up and give you applause. Exedcutives looking at you with satisfy sights, thesea re what they actually want. 
 
-[[Move forward with deployment->Crisis]]
+Thus, the project has been fast-tracked with emergency funding and executive priority. The time line has changed from 18 months gradual rollout to a 9-week emergency deployment. Normal approval process has been bypassed, public hearings has been canceled. The deployment begins in high-traffic areas within days, public doesn't know what's will happen next. 
+
+(text-colour:#ADA3C9)[[▶️Move forward with deployment->Crisis]]
 
 
 :: SystemSuccess {"position":"1200,900","size":"100,100"}
