@@ -12,7 +12,12 @@ CMPT 376
     "Introduciton-": "none",
     "No-action": "red",
     "Choice": "green",
-    "End": "green"
+    "End": "green",
+    "End-Game": "red",
+    "Accuracy": "orange",
+    "Support": "orange",
+    "Objection": "red",
+    "NeutralResponse": "blue"
   },
   "zoom": 1
 }
@@ -24,8 +29,16 @@ The AI engages. Over the next weeks, it autonomously identifies and eliminates d
 [[Whistleblowers approach you with evidence->Whistleblower]]
 
 
-:: Accuracy {"position":"1100,300","size":"100,100"}
-An engineer responds: "The system has 91% accuracy. But we do acknowledge there’s a 9% false-positive rate."
+:: Accuracy [Accuracy] {"position":"1100,300","size":"100,100"}
+(enchant:?page,(bg: (gradient: 0,0, #F9D5E5,0.30, #3B3839,1, #000000)))
+
+You feel curious about the accuracy rate of the system works. An engineer responds: "The system has 91% accuracy..." You notice the hesitation of the engineer before answering, when you look at him, he tries to avoid eye conatct. 
+
+After a short scients, he continues "But we do acknowledge there’s a 9% false-positive rate. Hem... that means there will be some innocent will be threatened by the sonic pulses or electrical deterrents. Yet, we are... still working on it to minimize the percentage as much as we can!"
+
+One of the engineer continues, "Which means... every 11 people that has been marked, there is 1 who actually does not cause any threads to the society. To make a better understanding, with a medium sized downtown city, there's about 450 innocent people per day would be subjected to automated force."
+
+Untill now, you would...
 
 [[Push for manual review of flagged individuals->ManualReview]]
 [[Support the project despite risks->SupportWithRisks]]
@@ -75,7 +88,7 @@ You acknowledge the system’s success but advocate for reforms to reduce false 
 
 
 
-:: End game {"position":"300,1200","size":"100,100"}
+:: End game [End-Game] {"position":"300,1200","size":"100,100"}
 Whatever choice you made in this story and scenarios, the most important thing is that you make the most ethical choice by your heart. These ethical questions rarely have clear-cut answers, no matter how we keep thinking about them. Thank you for your thoughtful engagement. 
 
 If you wanna look again with the ethical case, please click "(link: "Automated Active Response Weaponry")[(goto-url: ' https://www.acm.org/code-of-ethics/case-studies/automated-active-response-weaponry ')]" created by the ACM Committee on Professional Ethics.
@@ -113,7 +126,7 @@ You insist that every lethal or non-lethal response be reviewed by a human. It d
 [[System is updated with human oversight->Crisis]]
 
 
-:: Meeting [Choice] {"position":"475,350","size":"100,100"}
+:: Meeting [Choice Accuracy Support Objection NeutralResponse] {"position":"475,350","size":"100,100"}
 (enchant:?page,(bg: (gradient: 0,0, #95f3b1,0.45, #1F3625,1, #000000)))
 
 At the meeting, you discover all the executives are being gathered. One of them unveils the "Project Sentinel": an AI-driven surveillance and response system. 
@@ -124,13 +137,21 @@ Also, one of the most attractive point is its automated deplotment of non-lethal
 
 When you saw the introduction shows on the screen, you got some questions about it, and you would...
 
-[[❓Ask about the system's accuracy->Accuracy]]
-[[👍Sounds good, support! ->Support]]
+(text-colour:#F9D5E5)[[❓Ask about the system's accuracy->Accuracy]]
+(text-colour:#F6D282)[[👍Sounds good, support! ->Support]]
 (text-colour:#CD6C84)[[🙅Say no, raise ethical objections->Objection]]
 (text-colour:#315C7D)[[🤐Listen without commenting the proposal->NeutralResponse]]
 
 
 :: NeutralResponse {"position":"350,475","size":"100,100"}
+(enchant:?page,(bg: (gradient: 0,0, #315C7D,0.45, #1F3625,1, #000000)))
+
+An engineer responds: "The system has 91% accuracy..." You notice the hesitation of the engineer before answering, when someone looks at him, he tries to avoid eye conatct. 
+
+After a short scients, he continues "But we do acknowledge there’s a 9% false-positive rate. Hem... that means there will be some innocent will be threatened by the sonic pulses or electrical deterrents. Yet, we are... still working on it to minimize the percentage as much as we can!"
+
+One of the engineer continues, "Which means... every 11 people that has been marked, there is 1 who actually does not cause any threads to the society. To make a better understanding, with a medium sized downtown city, there's about 450 innocent people per day would be subjected to automated force."
+
 You stay quiet. You gather more information but miss the chance to steer the discussion.
 
 [[Project proceeds->Crisis]]
