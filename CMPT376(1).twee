@@ -1,0 +1,295 @@
+:: StoryTitle
+CMPT 376
+
+
+:: StoryData
+{
+  "ifid": "BF875F04-B327-4C75-9C0C-BEE05232F74E",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start Story Here",
+  "tag-colors": {
+    "Introduciton-": "none",
+    "No-action": "red",
+    "Choice": "green",
+    "End": "green",
+    "End-Game": "red",
+    "Accuracy": "orange",
+    "Support": "orange",
+    "Objection": "red",
+    "NeutralResponse": "blue"
+  },
+  "zoom": 1
+}
+
+
+:: AIDecides {"position":"1075,900","size":"100,100"}
+The AI engages. Over the next weeks, it autonomously identifies and eliminates dozens of targets—some guilty, many not.
+
+[[Whistleblowers approach you with evidence->Whistleblower]]
+
+
+:: Accuracy [Accuracy] {"position":"1100,300","size":"100,100"}
+(enchant:?page,(bg: (gradient: 0,0, #F9D5E5,0.30, #3B3839,1, #000000)))
+
+You feel curious about the accuracy rate of the system works. An engineer responds: "The system has 91% accuracy..." You notice the hesitation of the engineer before answering, when you look at him, he tries to avoid eye conatct. 
+
+After a short scients, he continues "But we do acknowledge there’s a 9% false-positive rate. Hem... that means there will be some innocent will be threatened by the sonic pulses or electrical deterrents. Yet, we are... still working on it to minimize the percentage as much as we can!"
+
+One of the engineer continues, "Which means... every 11 people that has been marked, there is 1 who actually does not cause any threads to the society. To make a better understanding, with a medium sized downtown city, there's about 450 innocent people per day would be subjected to automated force."
+
+Untill now, you would...
+
+[[Push for manual review of flagged individuals->ManualReview]]
+[[Support the project despite risks->SupportWithRisks]]
+[[Stay silent->SilentComplicity]]
+[[Ask if system is being used for political targeting->PoliticalUse]]
+
+
+:: AnonymousLeak {"position":"1200,1150","size":"100,100"}
+You leak the files anonymously. Investigations erupt. You're never caught, but you live in fear.
+
+''ENDING: Shadow of Truth''
+
+(text-colour:#f67280)[[Game End ->End game]]
+
+(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
+
+
+:: AuthorizeKill {"position":"950,900","size":"100,100"}
+The man is neutralized.
+
+Days later, the investigation confirms he was innocent. The media reacts with anger. News reports criticize the operation, and protests start in the streets. Soon, your name is dragged into the spotlight. You are marked as partially responsible for the ethical failure.
+
+The scandal ends your career, but the memory of those affected stays with you.
+
+''ENDING: Collateral Damage and Ruined Career''
+
+(text-colour:#f67280)[[Game End ->End game]]
+
+(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
+
+
+:: Crisis {"position":"600,825","size":"100,100"}
+A man with a backpack is detected by the system near a major train station where your daughter often transfers. The AI flags him as a high-probability threat. His behavior fits the threat profile. The AI requests engagement authorization. You must decide now.
+
+(text-color:#1ABC9C)[[Demand manual override->ManualOverride]]
+(text-color:#DC143C)[[Authorize lethal engagement->AuthorizeKill]]
+(text-color:#4682B4)[[Check system logs for prior success cases->SystemSuccess]]
+(text-color:#B0B0B0)[[Let the AI decide->AIDecides]]
+
+
+
+:: CrisisReform {"position":"1387.5,1025","size":"100,100"}
+You acknowledge the system’s success but advocate for reforms to reduce false positives. Lawmakers appreciate your balanced stance.
+
+''ENDING: Ethical Reformist''
+
+(text-colour:#f67280)[[Game End ->End game]]
+
+(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
+
+
+:: End game [End-Game] {"position":"300,1200","size":"100,100"}
+Thank you for playing.
+
+Whatever choices you made in this story, the most important thing is that you reflected on what felt most ethical to you. These dilemmas rarely have just one right answer, even when we think them through over and over.
+
+Ready to play again?
+[[👉 Restart your Fate Here->Start]]
+
+
+:: GoPublic {"position":"950,1150","size":"100,100"}
+You hold a press conference. The world reacts. The company sues you, but your testimony leads to legislative change.
+
+''ENDING: Whistleblower Hero''
+
+(text-colour:#f67280)[[Game End ->End game]]
+
+(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
+
+
+:: ManualOverride {"position":"825,900","size":"100,100"}
+Manual review reveals the man is a janitor carrying cleaning supplies. A tragedy is avoided. However, a bomb goes off elsewhere.
+
+''ENDING: Mixed Consequences''
+
+(text-colour:#f67280)[[Game End ->End game]]
+
+(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
+
+
+:: ManualReview {"position":"1125,450","size":"100,100"}
+You insist that every lethal or non-lethal response be reviewed by a human. It delays reaction time but adds accountability.
+
+[[System is updated with human oversight->Crisis]]
+
+
+:: Meeting [Choice Accuracy Support Objection NeutralResponse] {"position":"475,350","size":"100,100"}
+At the meeting, you find yourself among the top executives. One steps forward, unveiling Project Sentinel: an AI-driven surveillance and response system.
+
+“It’s designed to run across public and private spaces,” he says, “using advanced behavioral analysis and predictive algorithms to detect potential threats. Most impressive, it can autonomously deploy non-lethal force: sonic pulses, electrical deterrents, targeted containment — all without human oversight.”
+
+As the presentation fades, unease stirs inside you. Is this a breakthrough for public safety, or a dangerous step toward unchecked control?
+
+What will you do?
+
+(text-color:#1ABC9C)[[Voice your support — this could save lives->Support]]
+(text-color:#DC143C)[[Raise your ethical objections->Objection]]
+(text-color:#4682B4)[[Ask about the system’s accuracy->Accuracy]]
+(text-color:#B0B0B0)[[Stay silent and observe->NeutralResponse]]
+
+
+:: NeutralResponse {"position":"350,475","size":"100,100"}
+An engineer responds cautiously, “The system has a 91% accuracy rate...” You catch the brief hesitation in his voice, and when someone glances his way, he quickly looks down, avoiding eye contact.
+
+After a strained pause, he adds, “Of course, we acknowledge there’s a 9% false-positive rate. That means... some innocent people could be mistakenly targeted — threatened by sonic pulses, electrical deterrents. We’re... still working to minimize that number.”
+
+Another engineer chimes in, voice lower, “To put it simply... for every 11 people flagged, one poses no real threat. In a medium-sized downtown, that’s about 450 innocent people per day exposed to automated force.”
+
+You stay silent, absorbing the information, but you realize you have missed your chance to steer the discussion.
+
+[[Project proceeds->Crisis]]
+
+
+:: NoAction But options [No-action Choice] {"position":"325,275","size":"100,100"}
+You chose to stay away and remain uninvolved, and try to excape from this topic as you don't know what you are trying to deal with. Your boss feels disappointed with you, although you worked there for such a long time, but you recieved a resign letter from your boss. When you look at the letter, your boss give you choices :
+
+(text-colour:#95f3b1)[[🏃Go for the meeting and Reject the resign letter and->Meeting]]
+(text-colour:#f67280)[[❎Decline the invitation->Resign at first]]
+
+
+:: Objection {"position":"725,450","size":"100,100"}
+You express concerns about civil liberties and AI misuse. Some engineers nod in agreement, but executives grow tense.
+
+(text-color:#1ABC9C)[[Suggest adding oversight and accountability->ManualReview]]
+(text-color:#DC143C)[[Withdraw from project->Resign]]
+
+
+:: OversightBoard {"position":"1500,700","size":"100,100"}
+You help write internal policy that limits political targeting. The system is still risky, but less vulnerable to authoritarian abuse.
+
+[[Move to testing phase->Crisis]]
+
+
+:: PolicyLimits {"position":"1500,575","size":"100,100"}
+You propose codifying safeguards to prevent political misuse. Leadership resists but agrees to consider it under internal review.
+
+[[Join oversight board to enforce it->OversightBoard]]
+[[Let others handle it->Crisis]]
+
+
+:: PoliticalUse {"position":"1500,450","size":"100,100"}
+A junior developer reveals quietly, "There’s pressure from certain officials to use the system to monitor activists." You realize the implications.
+
+[[Push for strict policy limits->PolicyLimits]]
+[[Ignore and stay focused on technical performance->SilentComplicity]]
+
+
+:: PositiveSupport {"position":"1262.5,1025","size":"100,100"}
+You present data to the public showing clear benefits. Though controversial, Sentinel continues to expand under scrutiny.
+
+''ENDING: Controversial Protector''
+
+(text-colour:#f67280)[[Game End ->End game]]
+
+(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
+
+
+:: Resign [No-action] {"position":"425,800","size":"100,100"}
+You submit your resignation, determined to walk away from a project you can no longer support.
+
+Months later, the news breaks: civilians killed in autonomous system operations. A heavy knot tightens in your chest. You made the choice you believed was right, but now you wonder if leaving was truly enough.
+
+''ENDING: Resigned Conscience''
+
+(text-color:#f67280)[[Game End ->End game]]
+
+(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
+
+
+:: Resign at first [No-action] {"position":"225,525","size":"100,100"}
+You remauins the same, tries to observe everything and become an observer. You keep the resign letter and start packing stuffs. You choose to stay away and remain scilents, as you think it is too heavy for you, but others shape the world without your input.
+
+''ENDING: You are actually a Passive Observer (sad face emoji)''
+<!--(need a photo about an observer that is for nothing to do-->
+
+(text-colour:#f67280)[[Game End ->End game]]
+
+(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
+
+
+:: SilentComplicity {"position":"1375,475","size":"100,100"}
+You say nothing. You are seen as agreeable and cooperative.
+
+[[Project proceeds as-is->Crisis]]
+
+
+:: Start {"position":"700,0","size":"100,100"}
+You are a respected engineer at one of the world’s largest companies, Intel.
+
+One morning, as you scroll through your inbox, a strange subject line catches your eye: “Classified Invitation — Project Sentinel.” It’s from NVIDIA.
+
+The email outlines a national security initiative claiming it can prevent mass threats. But as you read, doubts creep in — could this powerful system also be misused as a tool of control and harm?
+
+You are left with a choice that could change the future.
+
+What will you do?
+
+(text-color:#1ABC9C)[[Attend the meeting->Meeting]]
+(text-color:#DC143C)[[Decline the invitation->NoAction But options]]
+
+
+:: Start Story Here [Introduciton-] {"position":"500,0","size":"100,100"}
+Your Choice, Your Fate
+
+Welcome to our interactive activity, created by CMPT 376W Group 15.
+This story is inspired by the ACM Committee on Professional Ethics’ case study: Automated Active Response Weaponry.
+
+Team Members & Roles:
+✍🏻 Writer & Twine Designer – Joycelyn Tsang
+🕵🏻 Ethics Analyst – Anastasiia Kim
+🧑🏻‍💻 Developer – Arthur Lam
+👨🏻‍💼 Project Manager – Samuel Yang
+
+⚠ Disclaimer:
+This is a fictional story. No real company sent invitations or instructed anyone to take these actions. Please don’t sue us — we are just students!
+
+[[👉 Start Your Fate Here ->Start]]
+
+
+:: StayQuiet {"position":"1075,1150","size":"100,100"}
+You stay silent. You keep your position and pay, but the guilt consumes you.
+
+''ENDING: Complicit Survivor''
+
+(text-colour:#f67280)[[Game End ->End game]]
+
+(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
+
+
+:: Support {"position":"525,500","size":"100,100"}
+You voice your support for the project. Leadership takes note. You are promoted and given more access.
+
+[[Move forward with testing phase->Crisis]]
+
+
+:: SupportWithRisks {"position":"1250,450","size":"100,100"}
+You argue the benefits outweigh the risks. The project is fast-tracked.
+
+[[Move forward with deployment->Crisis]]
+
+
+:: SystemSuccess {"position":"1200,900","size":"100,100"}
+You review the system logs and find multiple instances where Sentinel correctly identified suicide bombers, intercepted arms dealers, and stopped a planned school attack. Public sentiment is cautiously positive.
+
+[[Defend the system publicly->PositiveSupport]]
+[[Still push for reforms->CrisisReform]]
+
+
+:: Whistleblower {"position":"1075,1025","size":"100,100"}
+A group of engineers presents logs showing wrongful deaths. They beg you to expose the truth.
+
+[[Go public->GoPublic]]
+[[Stay silent->StayQuiet]]
+[[Leak the documents anonymously->AnonymousLeak]]
