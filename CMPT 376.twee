@@ -7,7 +7,10 @@ CMPT 376
   "ifid": "BF875F04-B327-4C75-9C0C-BEE05232F74E",
   "format": "Harlowe",
   "format-version": "3.3.9",
-  "start": "Start",
+  "start": "Start Story Here",
+  "tag-colors": {
+    "Introduciton-": "none"
+  },
   "zoom": 1
 }
 
@@ -39,7 +42,7 @@ The man is neutralized. Later investigation reveals he was innocent. Public outc
 ''ENDING: Collateral Damage and Ruined Career''
 
 
-:: Crisis {"position":"1000,750","size":"100,100"}
+:: Crisis {"position":"600,825","size":"100,100"}
 A man with a backpack is detected by the system near a major train station. His behavior fits the threat profile. The AI requests engagement authorization.
 
 [[Demand manual override->ManualOverride]]
@@ -52,6 +55,14 @@ A man with a backpack is detected by the system near a major train station. His 
 You acknowledge the system’s success but advocate for reforms to reduce false positives. Lawmakers appreciate your balanced stance.
 
 ''ENDING: Ethical Reformist''
+
+
+:: End game {"position":"275,1350","size":"100,100"}
+Whatever choice you made in this story and scenarios, the most important thing is that you make the most ethical choice by your heart. These ethical questions rarely have clear-cut answers, no matter how we keep thinking about them. Thank you for your thoughtful engagement. 
+
+If you wanna look again with the ethical case, please click "(link: "Automated Active Response Weaponry")[(goto-url: ' https://www.acm.org/code-of-ethics/case-studies/automated-active-response-weaponry ')]" created by the ACM Committee on Professional Ethics.
+
+Click to play the scenario story again(b4r:"groove")+(b4r-colour:blue)+(text-colour:#DC3C22)[[👉Start your Fate Here🧐->Start]]
 
 
 :: GoPublic {"position":"950,1150","size":"100,100"}
@@ -72,7 +83,7 @@ You insist that every lethal or non-lethal response be reviewed by a human. It d
 [[System is updated with human oversight->Crisis]]
 
 
-:: Meeting {"position":"725,350","size":"100,100"}
+:: Meeting {"position":"475,350","size":"100,100"}
 At the meeting, executives unveil "Project Sentinel": an AI surveillance and response system designed to identify potential threats and deploy non-lethal force.
 
 [[Ask about the system's accuracy->Accuracy]]
@@ -81,19 +92,24 @@ At the meeting, executives unveil "Project Sentinel": an AI surveillance and res
 [[Listen without comment->NeutralResponse]]
 
 
-:: NeutralResponse {"position":"525,475","size":"100,100"}
+:: NeutralResponse {"position":"375,550","size":"100,100"}
 You stay quiet. You gather more information but miss the chance to steer the discussion.
 
 [[Project proceeds->Crisis]]
 
 
-:: NoAction {"position":"500,350","size":"100,100"}
-You chose to stay away. You remain uninvolved, but others shape the world without your input.
+:: NoAction But options {"position":"325,275","size":"100,100"}
+You chose to stay away and remain uninvolved, and try to excape from this topic as you don't know what you are trying to deal with. Your boss feels disappointed with you, although you worked there for such a long time, but you recieved a resign letter from your boss. When you look at the letter, your boss give you choices :
 
-''ENDING: Passive Observer''
+[[Reject the resign letter and go for the meeting->Meeting]]
+[[Decline the invitation->Resign at first]]
+
+''ENDING: You are actually a Passive Observer (sad face emoji)''
 
 
-:: Objection {"position":"787.5,475","size":"100,100"}
+
+
+:: Objection {"position":"675,475","size":"100,100"}
 You express concerns about civil liberties and AI misuse. Some engineers nod in agreement, but executives grow tense.
 
 [[Suggest adding oversight and accountability->ManualReview]]
@@ -126,10 +142,18 @@ You present data to the public showing clear benefits. Though controversial, Sen
 ''ENDING: Controversial Protector''
 
 
-:: Resign {"position":"950,525","size":"100,100"}
+:: Resign {"position":"350,725","size":"100,100"}
 You resign in protest. Months later, you hear about civilian casualties.
 
 ''ENDING: Resigned Conscience''
+
+
+:: Resign at first {"position":"225,525","size":"100,100"}
+You remauins the same, tries to observe everything and become an observer. You keep the resign letter and start packing stuffs. You choose to stay away and remain scilents, as you think it is too heavy for you, but others shape the world without your input.
+
+''ENDING: You are actually a Passive Observer (sad face emoji)''
+
+(text-colour:#ffd8a8)[☞ [[End game]]]
 
 
 :: SilentComplicity {"position":"1375,450","size":"100,100"}
@@ -138,11 +162,31 @@ You say nothing. You are seen as agreeable and cooperative.
 [[Project proceeds as-is->Crisis]
 
 
-:: Start {"position":"575,200","size":"100,100"}
+:: Start {"position":"725,0","size":"100,100"}
+
+You are a respected engineer working in one of the largest world company, Intel. When you wake up, you grab your phone and checking emails, trying to start a hard day. But there's an invetation email which has been sent by NVIDEA. After you clicked in, you dis
+
 You are a respected engineer who receive a classified invitation to a national security project called "Sentinel". You are told it could prevent mass threats or become a government tool leading to potential harm. What will you do?
 
 [[Attend the meeting->Meeting]]
-[[Decline the invitation->NoAction]]
+[[Decline the invitation->NoAction But options]]
+
+
+:: Start Story Here [Introduciton-] {"position":"500,0","size":"100,100"}
+This is an interactive "Your Choice Your Fate" activity from CMPT 376w Group 15. We are presenting to you a story based on "(link: "Automated Active Response Weaponry")[(goto-url: ' https://www.acm.org/code-of-ethics/case-studies/automated-active-response-weaponry ')]" created by the ACM Committee on Professional Ethics.
+
+Team member & Main roles:
+Writer✍🏻 - Joycelyn Tsang
+Ethics Analyst 🕵🏻 - Anastasiia Kim
+Developer 🧑🏻‍💻 - Arthur Lam 
+Project Manager 👨🏻‍💼-  Samuel Yang
+
+The stories are fake, company does not sent any invitation and tell people do such things, please don't sue us ><
+
+(b4r:"groove")+(b4r-colour:blue)+(text-colour:#DC3C22)[[👉Start your Fate Here🧐->Start]]
+
+(enchant:?page,(bg: (gradient: 0,0, #121822,0.5, #008080,1, #00d2d2)))
+
 
 
 :: StayQuiet {"position":"1075,1150","size":"100,100"}
@@ -151,7 +195,7 @@ You stay silent. You keep your position and pay, but the guilt consumes you.
 ''ENDING: Complicit Survivor''
 
 
-:: Support {"position":"662.5,475","size":"100,100"}
+:: Support {"position":"525,500","size":"100,100"}
 You voice your support for the project. Leadership takes note. You are promoted and given more access.
 
 [[Move forward with testing phase->Crisis]]
