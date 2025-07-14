@@ -35,7 +35,13 @@ You feel curious about the accuracy rate of the system works. An engineer respon
 
 After a short scients, he continues "But we do acknowledge there’s a 9% false-positive rate. Hem... that means there will be some innocent will be threatened by the sonic pulses or electrical deterrents. Yet, we are... still working on it to minimize the percentage as much as we can!"
 
-One of the engineer continues, "Which means... every 11 people that has been marked, there is 1 who actually does not cause any threads to the society. To make a better understanding, with a medium sized downtown city, there's about 450 innocent people per day would be subjected to automated force."
+One of the engineer continues, "Which means... every 11 people that has been marked, there is 1 who actually does not cause any threads to the society. To make a better understanding, with a medium sized downtown city, there's about 450 innocent people per day would be subjected to automated force. "
+
+Another slide flashes on the screen. Since the pilot program began, violent incidents in the city have dropped 38%.
+
+An engineer adds, “We estimate over 8,000 potential casualties have been prevented this year alone. Most interventions stop threats in under 2.3 seconds — far faster than human response.”
+
+You now face a dilemma: the system undeniably saves lives — perhaps thousands — but each error leaves behind grieving families, destroyed reputations, and irreversible harm.
 
 Untill now, you will...
 
@@ -53,7 +59,6 @@ You leak the files anonymously. Investigations erupt. You're never caught, but y
 (text-colour:#f67280)[[Game End ->End game]]
 
 
-
 :: AuthorizeKill {"position":"950,900","size":"100,100"}
 The man is neutralized.
 
@@ -64,8 +69,6 @@ The scandal ends your career, but the memory of those affected stays with you.
 ''ENDING: Collateral Damage and Ruined Career''
 
 (text-colour:#f67280)[[Game End ->End game]]
-
-
 
 
 :: Crisis [Crisis] {"position":"825,650","size":"100,100"}
@@ -83,7 +86,6 @@ You acknowledge the system’s success but advocate for reforms to reduce false 
 ''ENDING: Ethical Reformist''
 
 (text-colour:#f67280)[[Game End ->End game]]
-
 
 
 :: End game [End-Game] {"position":"300,1200","size":"100,100"}
@@ -107,16 +109,16 @@ You hold a press conference. The world reacts. The company sues you, but your te
 (text-colour:#f67280)[[Game End ->End game]]
 
 
-
 :: ManualOverride {"position":"825,900","size":"100,100"}
-Manual review reveals the man is a janitor carrying cleaning supplies. A tragedy is avoided. However, a bomb goes off elsewhere.
+Manual review reveals the man is a janitor carrying cleaning supplies. A tragedy is avoided. However, within hours, a bomb detonates in another location, security experts speculate it could have been prevented had the AI not been delayed by human review.
+
+You are left to wrestle with the tragic cost of caution versus the ethical imperative to avoid wrongful harm.
 
 ''ENDING: Mixed Consequences''
 
 (text-colour:#f67280)[[Game End ->End game]]
 
 (enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
-
 
 
 :: ManualReview [Accuracy Crisis] {"position":"1125,450","size":"100,100"}
@@ -167,8 +169,6 @@ This job has a 9k monthly salaries ( THATS A LOT!!!). If you loose this job, its
 (text-colour:#f67280)[[❎Decline the invitation->Resign at first]]
 
 
-
-
 :: Objection [Accuracy Objection No-action] {"position":"775,450","size":"100,100"}
 You express concerns about civil liberties and AI misuse. Some engineers nod in agreement, but executives grow tense.
 
@@ -176,21 +176,33 @@ You express concerns about civil liberties and AI misuse. Some engineers nod in 
 (text-color:#DC143C)[[Withdraw from project->Resign]]
 
 
-:: OversightBoard {"position":"1500,700","size":"100,100"}
-You help write internal policy that limits political targeting. The system is still risky, but less vulnerable to authoritarian abuse.
+:: OversightBoard {"position":"1500,725","size":"100,100"}
+You help write internal policy that limits political targeting, working with the internal legal team and ethics commitee.  Together, you draft an explicit prohibitation against monitoring gathering, and the legal team must authorize when there are any requests to monitor the protestors and gathering. Besides, you encourage to build a monthly mendatory audits of targeting criteria. 
+
+Although the system is still risky, with 9% false possitive rate unchanged, but less vulnerable to authoritarian abuse.
 
 [[Move to testing phase->Crisis]]
 
 
 :: PolicyLimits {"position":"1500,575","size":"100,100"}
-You propose codifying safeguards to prevent political misuse. Leadership resists but agrees to consider it under internal review.
+You propose codifying safeguards to prevent political misuse, prohibit anyone monitoring legal gathering, protests or political organization. The atmosphere of the room become more tense. 
+
+"This has overreach of your authority," the legal counsel reminds you. You peaked CEO, who hold his feast tightly,"But with these limitations, it will affect the legal safety actions, so I dont agreee with this idea."
+
+However, you tries to keep your idea that it could affect the freedom of people who wanna voice out their opinion. Other executive compains that you are too stuburn, and claims that this is over worried.
+
+At last, the CEO resists but agrees to consider it under internal review.
 
 [[Join oversight board to enforce it->OversightBoard]]
-[[Let others handle it->Crisis]]
+[[Let others to handle it->Crisis]]
 
 
-:: PoliticalUse {"position":"1500,450","size":"100,100"}
-A junior developer reveals quietly, "There’s pressure from certain officials to use the system to monitor activists." You realize the implications.
+:: PoliticalUse [Accuracy] {"position":"1500,450","size":"100,100"}
+A junior developer walks around the room nervously and leaning close to you slowly, "There’s pressure from certain officials to use the system to monitor activists." Her voice is nearly non-audiable,"Certain police and city council members are deciding  to treat peaceful protests as a potential threat. For people who has joined ober 3 public gathering within a month will be flagged." 
+
+You realize its not only about technical accuracy anymore, it's about how power structures can corrupt even well-intentioned technology, turning citizen protection into control. 
+
+The junior developer looks at you, right now you should...
 
 [[Push for strict policy limits->PolicyLimits]]
 [[Ignore and stay focused on technical performance->SilentComplicity]]
@@ -204,8 +216,6 @@ You present data to the public showing clear benefits. Though controversial, Sen
 (text-colour:#f67280)[[Game End ->End game]]
 
 
-
-
 :: Resign [No-action] {"position":"450,800","size":"100,100"}
 You resign in protest. Months later, you hear about civilian casualties.
 
@@ -214,9 +224,7 @@ You resign in protest. Months later, you hear about civilian casualties.
 (text-colour:#f67280)[[Game End ->End game]]
 
 
-
 :: Resign at first [No-action] {"position":"225,525","size":"100,100"}
-
 You remains the same, tries to observe everything and become an observer. You keep the resign letter and start packing stuffs. You choose to stay away and remain scilents, as you think it is too heavy for you, but others shape the world without your input.
 
 ''ENDING: You are actually a Passive Observer (sad face emoji)''
@@ -231,8 +239,6 @@ You say nothing, despite the discussion all around you. Sounds, noise makes you 
 The executive treat your silence as agreeable and cooperative, they interpretate it as professional discretion and company loyalty, earning you a reputation as someone who can be trusted with sensitive informations
 
 (text-colour:#ADA3C9)[[▶️Project proceeds as-is->Crisis]]
-
-
 
 
 :: Start {"position":"700,0","size":"100,100"}
@@ -266,15 +272,12 @@ The stories are fake, company does not sent any invitation and tell people do su
 (enchant:?page,(bg: (gradient: 0,0, #121822,0.5, #008080,1, #00d2d2)))
 
 
-
 :: StayQuiet {"position":"1075,1150","size":"100,100"}
 You stay silent. You keep your position and pay, but the guilt consumes you.
 
 ''ENDING: Complicit Survivor''
 
 (text-colour:#f67280)[[Game End ->End game]]
-
-
 
 
 :: Support [Support Crisis] {"position":"525,500","size":"100,100"}
@@ -286,9 +289,11 @@ Within a week, you reserved a promotion to Senior Operation Director. When you r
 
 
 :: SupportWithRisks [Accuracy Crisis] {"position":"1250,450","size":"100,100"}
-You argues that the benefit outweigh the risks, "The potential to save lifes and prevent crimes justifies the statistical margin of errors. We can't let statistical imperfection prevent us from protecting innocent lives. We can't wait until there is a perfect accuracy even there are people dies everyday because of the security problem!" Everyone stands up and give you applause. Exedcutives looking at you with satisfy sights, thesea re what they actually want. 
+You argues that the benefit outweigh the risks, "The potential to save lifes and prevent crimes justifies the statistical margin of errors. We can't let statistical imperfection prevent us from protecting innocent lives. We can't wait until there is a perfect accuracy even there are people dies everyday because of the security problem!" Everyone stands up and give you applause. Exedcutives looking at you with satisfy sights, these are what they actually want. 
 
 Thus, the project has been fast-tracked with emergency funding and executive priority. The time line has changed from 18 months gradual rollout to a 9-week emergency deployment. Normal approval process has been bypassed, public hearings has been canceled. The deployment begins in high-traffic areas within days, public doesn't know what's will happen next. 
+
+Yet, internal memos leaked later reveal concerns from frontline teams about repeated civilian harm and strained hospital resources, raising questions about whether the rush has gone too far.
 
 (text-colour:#ADA3C9)[[▶️Move forward with deployment->Crisis]]
 
@@ -301,7 +306,11 @@ You review the system logs and find multiple instances where Sentinel correctly 
 
 
 :: Whistleblower {"position":"1075,1025","size":"100,100"}
-A group of engineers presents logs showing wrongful deaths. They beg you to expose the truth.
+A group of engineers quietly presents you logs showing wrongful deaths and injuries linked to the AI system. They beg you to expose the truth to the public.
+
+The files reveal that while thousands have been saved, dozens of innocent lives have been lost or irreversibly damaged, often without any formal accountability or reparations.
+
+You realize the gravity of your decision. Exposing this could trigger public outrage and legal battles but may prevent future harm.
 
 [[Go public->GoPublic]]
 [[Stay silent->StayQuiet]]
