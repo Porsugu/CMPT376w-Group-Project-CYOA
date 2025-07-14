@@ -56,9 +56,15 @@ Until now, you will...
 
 
 :: AnonymousLeak {"position":"1200,1150","size":"100,100"}
-You encrypt the files, reroute your signal through layers of anonymous networks, and send everything, which includes logs, reports, evidence, into the world. No press conference. No name. Just truth, dropped like a match into dry grass. The reaction is swift and furious. News outlets seize the story. Protests ignite. Investigations follow. Executives are called to testify. The world begins to reckon with what it trusted so blindly. But you? You vanish into the background, a ghost in your own life. You return to work as if nothing happened, nodding in meetings, sipping coffee, pretending not to notice when the legal department spirals into chaos.
+You encrypt everything, logs, reports, all the evidence, and send it out through anonymous networks. No press conference, no signature, no name. Just the truth, set loose like a spark in dry grass.
 
-Every day is a careful performance. Every knock at the door startles you. Every unknown number sends your heart racing. You listen to the world praise the anonymous whistleblower, who is being regarded as the silent guardian who forced change from the shadows. However, there’s no comfort in their praise, not really. You walk the line between justice and fear, never free, never known. You told the truth. But at the cost of your peace.
+It catches fast. News outlets run with it. Crowds gather. Protests erupt. Politicians demand answers. CEOs are hauled in front of Congress. The public finally sees the system for what it is—what they once trusted without question is now under fire.
+
+And you? You slip back into your everyday routine. You show up to work. Sit through meetings. Sip your coffee. Act like nothing’s changed. You keep your head down while the legal team starts spiraling, pretending you don’t notice their frantic whispers.
+
+But every day feels like a performance. Every unexpected knock on your door makes your pulse race. You flinch when your phone rings from an unknown number. People call the whistleblower a hero, someone brave enough to speak up and vanish into the shadows.
+
+You hear it all, but it doesn’t make you feel safer. The fear doesn’t go away. You did the right thing—but now you live in constant tension, unable to tell anyone the truth. You can’t relax. You can’t be known. You just keep moving forward, somewhere between pride and paranoia.
 
 ''ENDING: Shadow of Truth''
 
@@ -72,7 +78,6 @@ Your phone continues to ring nonstop with reporters and former colleagues and ra
 
 During a rainy evening you find yourself sitting in a dimly lit room where the burden of your destroyed career feels like an actual weight. Your mind shows his face to you with his peaceful innocent eyes that never should have faced such a tragic destiny. 
 
-
 The laughter of your daughter which used to comfort you now seems weak and far away. The darkness grows longer while the emptiness between us becomes unbearable. Your soul bears the permanent mark of being a victim who lost everything in the process.
 ''ENDING: Collateral Damage and Ruined Career''
 
@@ -80,11 +85,13 @@ The laughter of your daughter which used to comfort you now seems weak and far a
 
 
 :: Crisis [Crisis] {"position":"825,650","size":"100,100"}
-It is currently 5:37 PM and your phone is vibrating like crazy, making all sorts of sharp, buzzing sensations. Soon after, the AI surveillance dashboard lights up. You gear  towards the dashboard and see red, blinking "urgent" messages. A man with a black backpack has been flagged at St. Lucifer Station, which is ironically the same station your daughter, Jennifer, transfers through every day on her way home from school. The AI flags him as a high-probability threat. Your breath catches. His face is calm, almost unreadable. No criminal history. No weapons detected. Yet the AI flags that his behavior fits the profile, and time is running out. You feel your chest tighten, a cold knot of fear and responsibility twisting inside you. Every second that passes is a razor’s edge between safety and disaster. 
-
-Your mind races thoughts of doubts, such as, what if this is a false alarm? The weight of possibly killing an innocent man crushes you. But what if you hesitate and fail to act? Your daughter’s laughter echoes in your memory, and the thought of her hurt shakes you to the core. Do you demand a manual override, risking delay and hoping for human judgment? Or do you give in to the cold certainty of the system, pressing the button to end the threat before it can move? You consider checking the logs, which consists of hundreds of past successes, but simultaneously a handful of tragic mistakes too. You hate that the numbers can’t tell you if this man is a danger or just another face in the crowd. 
-
-Part of you wants to let the AI decide, in order for you to remove yourself from this unbearable burden, but yet again, another part rebels, refusing to hand over your daughter’s safety to lines of code. A few minutes past by, your hands still trembling over the controls, your heart still pounding in a deafening rhythm, as the station bustles unknowingly around you and the seconds slip like sand through desperate fingers.
+It's 5:37 PM when your phone won't stop buzzing. Then the AI surveillance dashboard explodes with red alerts. A man with a black backpack just got flagged at St. Lucifer Station.
+Your heart drops.
+That's where Jennifer catches her transfer every day after school.
+The AI says he's high-risk. No weapons, no criminal record. Just acting in a way that matches the pattern. His face looks calm, like nothing's wrong. And you're running out of time.
+You can barely breathe. What if it's nothing? But what if you wait and someone gets killed—what if it's Jennifer? You could do a manual check, but that might be too late. You keep thinking about all those lives the system saved, and the few innocent people who didn't make it.
+You're staring at the controls, completely torn. Part of you wants to just let the AI handle it, so you don't have to decide. But you can't. Not when it could be her.
+People are walking around the station like everything's normal. The clock keeps ticking, and your hands won't stop shaking.
 (text-color:#1ABC9C)[[Demand manual override->ManualOverride]]
 (text-color:#DC143C)[[Authorize lethal engagement->AuthorizeKill]]
 (text-color:#4682B4)[[Check system logs for prior success cases->SystemSuccess]]
@@ -92,7 +99,11 @@ Part of you wants to let the AI decide, in order for you to remove yourself from
 
 
 :: CrisisReform {"position":"1375,1025","size":"100,100"}
-After the incident you decide to neither remain silent nor give unconditional praise. You appear before the committee to share the complete truth about Sentinel instead of making a defense. You demonstrate the system's proven achievements by showing how it has protected lives and stopped attacks and prevented tragedies. But then you pivot. You demonstrate to them the system's mistakes which include incorrect alerts and close calls and the harm inflicted on harmless people through excessive surveillance. You don’t flinch. You don’t hide. You declare to them that we created a powerful system yet uncontrolled power remains dangerous. We must do better.” The room quiets. The lawmakers who had been divided before now pay attention with an unusual level of attention. Your stance is well measured, honest, and resonates human-like features. It is not weakness to admit fault. It is integrity. A bipartisan reform bill emerges from the legislative process within days. Protocols are tightened. Oversight committees are established. The system operates but now it functions under moral guidance. And you? Your departure from the situation leaves you without the labels of hero or villain because you demonstrated the difficult quality of someone who made errors while working to correct them.
+After the incident you decide to neither remain silent nor give unconditional praise. You appear before the committee to share the complete truth about Sentinel instead of making a defense. You demonstrate the system's proven achievements by showing how it has protected lives and stopped attacks and prevented tragedies. But then you pivot. You demonstrate to them the system's mistakes which include incorrect alerts and close calls and the harm inflicted on harmless people through excessive surveillance. You don’t flinch. You don’t hide. You declare to them that we created a powerful system yet uncontrolled power remains dangerous. "We must do better.” 
+
+The room quiets. The lawmakers who had been divided before now pay attention with an unusual level of attention. Your stance is well measured, honest, and resonates human-like features. It is not weakness to admit fault. It is integrity. 
+
+A bipartisan reform bill emerges from the legislative process within days. Protocols are tightened. Oversight committees are established. The system operates but now it functions under moral guidance. And you? Your departure from the situation leaves you without the labels of hero or villain because you demonstrated the difficult quality of someone who made errors while working to correct them.
 
 ''ENDING: Ethical Reformist''
 
@@ -113,7 +124,17 @@ Ready to play again?
 
 
 :: GoPublic {"position":"950,1150","size":"100,100"}
-You face the cameras as you rise to speak while the heavy burden of your revelation presses against your body like a tight grip. You begin your speech as a person who has witnessed too many wrongs to remain silent rather than as an angry employee. You expose all the hidden truths including the concealed death records and unheeded alerts and the desperate pleas from engineers. You expose the authentic nature which lies beneath Sentinel's flawless corporate image. The immediate reaction becomes a massive explosion. News outlets erupt with headlines. Protesters flood the streets. The company files a lawsuit against you right away to label your actions as betrayal. But you stand your ground. You testify before lawmakers. You face multiple rounds of questioning and face defamatory attacks and receive threatening messages. Throughout the entire ordeal you refused to yield. New legislation emerges several months later which includes strict oversight measures and transparency standards and civilian protection protocols. Sentinel continues to operate but it must now operate under public oversight. Your career lies in ruins but you maintain a proud posture as you leave alone. You didn’t save everyone. But you told the truth. And that, finally, was enough.
+You finally stand up to speak. You know this is going to change everything, but you can't stay quiet anymore.
+
+You tell them everything - the deaths they covered up, the warnings nobody listened to, the engineers who tried to speak up but got shut down. All the stuff Sentinel didn't want people to know.
+
+Everything blows up after that. It's all over the news. People are angry. The company immediately comes after you with lawyers, saying you betrayed them.
+
+You don't give up. You go in front of Congress and answer their questions for hours. They try to make you look bad, send you nasty messages. But you keep telling the truth.
+
+Months go by. New laws get passed. Now there are rules about what companies like Sentinel can do, and people are watching them.
+
+Your career is done. You're walking away from everything you worked for. You didn't save everyone, but you did what was right. For the first time in years, that actually feels okay.
 
 ''ENDING: Whistleblower Hero''
 
@@ -121,11 +142,17 @@ You face the cameras as you rise to speak while the heavy burden of your revelat
 
 
 :: ManualOverride {"position":"825,900","size":"100,100"}
-Your initial suspicion about the man being a janitor with only cleaning supplies proves correct during the manual review. A tragedy is averted, and relief floods through you like a balm for a bruised soul. But that relief is painfully short-lived. Several hours later, a bomb detonates at another location. Security experts warn that the attack could have been stopped if the AI system had not encountered human delays. 
+You were right, the man really was just a janitor with cleaning supplies. The manual check confirmed it. For a moment, a wave of relief washed over you, like you could finally exhale.
 
-The knowledge creates a heavy burden which cuts into your conscience with its cruel paradox. Your actions saved an innocent person yet you cannot shake the feeling of guilt. The distinction between caution and decisiveness becomes indistinct as you face the unresolvable decision between stopping incorrect harm and the devastating results of delayed action. 
+But it didn’t last.
 
-The decision continues to haunt you after the news stories disappear because ethics and urgency create an unresolvable dilemma.
+A few hours later, a bomb went off across town. Security teams said it might have been stopped—if the AI hadn’t been delayed by human intervention.
+
+Now you’re left with this heavy, sinking feeling. You saved an innocent man, but you can’t stop thinking about the people who didn’t make it. You made the right call, and yet it feels wrong all the same.
+
+You keep replaying it in your mind. Should you have trusted the system and acted faster? Or was it right to be cautious, to double-check? There’s no clean answer. Either path ends in someone getting hurt.
+
+Even after the headlines fade and the world moves on, it lingers. That impossible choice keeps echoing in your head: how do you decide between being safe and being fast, when either decision can end in tragedy?
 
 ''ENDING: Mixed Consequences''
 
@@ -222,7 +249,11 @@ The junior developer looks at you, right now, you should...
 
 
 :: PositiveSupport {"position":"1262.5,1025","size":"100,100"}
-You approach the podium while your heart races from the weight of the revelation you are about to share. The projection screen behind you displays statistical charts showing lives saved and attacks prevented and civilians protected from destruction. You present each statistical example to the audience starting with the school massacre prevention and the arms dealer ring destruction and the successful disarming of a suicide bomber. The audience starts to murmur as you clarify that although there have been controversies the data shows Sentinel has saved thousands of lives. Your voice remains firm while you discuss the system's weaknesses and the public protests it has generated. The audience outside holds "No More Silence" signs but you present them with concrete evidence tonight. The audience breaks into careful applause after the final bar graph disappears from the screen. The delicate sense of public trust begins to take root inside your chest. The growth of Sentinel will continue under constant observation and strict monitoring yet you now believe technology and humanity can progress together.
+You approach the podium while your heart races from the weight of the revelation you are about to share. The projection screen behind you displays statistical charts showing lives saved and attacks prevented and civilians protected from destruction. You present each statistical example to the audience starting with the school massacre prevention and the arms dealer ring destruction and the successful disarming of a suicide bomber. 
+
+The audience starts to murmur as you clarify that although there have been controversies the data shows Sentinel has saved thousands of lives. Your voice remains firm while you discuss the system's weaknesses and the public protests it has generated. The audience outside holds "No More Silence" signs but you present them with concrete evidence tonight. 
+
+The audience breaks into careful applause after the final bar graph disappears from the screen. The delicate sense of public trust begins to take root inside your chest. The growth of Sentinel will continue under constant observation and strict monitoring yet you now believe technology and humanity can progress together.
 
 ''ENDING: Controversial Protector''
 
@@ -286,7 +317,11 @@ The stories are fake, company does not sent any invitation and tell people do su
 
 
 :: StayQuiet {"position":"1075,1150","size":"100,100"}
-You close the folder. You thank the engineers for coming, tell them you’ll "look into it." But the next morning, the logs are gone, some even buried and encrypted. In the end, all are out of reach. You say nothing. No press conferences, no testimonies, no confrontation. And life goes on. You keep your position. Your salary. Your silence. At meetings, you nod along as Sentinel is praised. In public, you smile politely when reporters call it a marvel of modern security. But at night, when the world is quiet and the weight of your choice presses in, you hear their names, the ones in the file. You see their faces. You wonder what their final moments were like, and whether your hesitation to act would haunt anyone but you. Over time, your title means less. The paychecks blur. But the guilt? It sharpens. You become a respected figure, but one who flinches at their own reflection. You survive. But something inside you doesn’t.
+You close the folder. You thank the engineers for coming, tell them you’ll "look into it." But the next morning, the logs are gone, some even buried and encrypted. In the end, all are out of reach. You say nothing. No press conferences, no testimonies, no confrontation. And life goes on. You keep your position. Your salary. Your silence. 
+
+At meetings, you nod along as Sentinel is praised. In public, you smile politely when reporters call it a marvel of modern security. But at night, when the world is quiet and the weight of your choice presses in, you hear their names, the ones in the file. You see their faces. You wonder what their final moments were like, and whether your hesitation to act would haunt anyone but you. 
+
+Over time, your title means less. The paychecks blur. But the guilt? It sharpens. You become a respected figure, but one who flinches at their own reflection. You survive. But something inside you doesn’t.
 
 ''ENDING: Complicit Survivor''
 
@@ -310,7 +345,18 @@ Thus, the project has been fast-tracked with emergency funding and executive pri
 
 
 :: SystemSuccess {"position":"1200,900","size":"100,100"}
-You examine the system logs one line at a time while maintaining a steady heartbeat but exercising caution. The log entries reveal stories about a suicide bomber who was stopped from detonating in a public square and an arms dealer who was interrupted during a café transaction and a school attack that never started. The statistical information conceals the potential destruction which could have occurred yet you understand the situation. You feel it. These aren't just numbers. The system has protected human lives and maintained their future prospects. You take a brief moment to breathe quietly before returning to your duties. Sentinel has performed its duties successfully according to your observation. The heavy burden of its capabilities continues to occupy your thoughts. You understand the dual nature of its abilities which include both remarkable achievements and potential errors. Public opinion outside your office maintains a controlled sense of hopefulness. The media presents guarded headlines together with cautious approval and hesitant appreciation. Yet you understand that the equilibrium exists in a delicate state. The trust between humans and the system would collapse instantly if a single wrongful death or mistake occurred. You finish reviewing the logs before sitting down to understand that you have seen something remarkable which requires extraordinary accountability.
+You go through the system logs one by one, taking your time but staying focused. Your heart stays steady even though your mind is racing. Each entry is more than just data - it's a story about disaster that almost happened.
+
+A suicide bomber stopped before he reached a crowded square. An arms dealer caught in the middle of a deal at some quiet café. A school attack that got shut down before it even started.
+
+The numbers don't tell you about the chaos that could have been. But you can see it. You can feel it. These aren't just statistics - they're actual lives, futures that still exist, families that are still together.
+
+You let yourself breathe for a second. Then you get back to work.
+By every measure, Sentinel is doing what it's supposed to do. It's protecting people. The logs make that pretty clear. But you can't shake the feeling of how much power this thing has. You know better than anyone that it cuts both ways. Every success comes with the possibility of something going terribly wrong.
+
+Outside your office, people seem cautiously hopeful. The news is mostly positive. Commentators are giving it careful praise. But you know how easily that could change. One mistake. One innocent person dies. That's all it would take for everyone to turn against the system.
+
+You finish looking through everything and lean back in your chair. Not relieved, just aware of what you've seen. This is incredible technology. But that means it has to be held to an even higher standard.
 
 [[Defend the system publicly->PositiveSupport]]
 [[Still push for reforms->CrisisReform]]
