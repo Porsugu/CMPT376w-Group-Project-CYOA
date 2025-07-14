@@ -25,17 +25,21 @@ CMPT 376
 
 
 :: AIDecides {"position":"1075,900","size":"100,100"}
-The AI engages. Over the next weeks, it autonomously identifies and eliminates dozens of targets—some guilty, many not.
+The AI engages without hesitation. The system operates with calculated precision during the following weeks to detect and destroy numerous targets automatically. The system detected actual threats which existed as dangerous silhouettes. The system captured numerous innocent people who became trapped in the unyielding system of suspicion and algorithmic certainty. 
+
+Each case chips away at your conscience. You recall the human faces which appeared in statistical reports about the father who never returned home and the teenager who was wrongly identified as a suspect and the elderly woman who remained unproven innocent. 
+
+The media produces increasingly negative reports while protests emerge and you remain caught between your admiration for the technology's operational efficiency and your disgust at its unyielding mistakes. You wonder whether you built a defensive system or an evil entity. Your faith in redemption diminishes with each passing life the AI takes as its operational domain expands.
 
 [[Whistleblowers approach you with evidence->Whistleblower]]
 
 
 :: Accuracy [Accuracy] {"position":"1100,300","size":"100,100"}
-You feel curious about the accuracy rate of the system works. An engineer responds: "The system has 91% accuracy..." You notice the hesitation of the engineer before answering, when you look at him, he tries to avoid eye conatct. 
+You feel curious about the accuracy rate of the system's work. An engineer responds: "The system has 91% accuracy..." You notice the hesitation of the engineer before answering. When you look at him, he tries to avoid eye contact. 
 
-After a short scients, he continues "But we do acknowledge there’s a 9% false-positive rate. Hem... that means there will be some innocent will be threatened by the sonic pulses or electrical deterrents. Yet, we are... still working on it to minimize the percentage as much as we can!"
+After a short sentence, he continues, "But we do acknowledge there’s a 9% false-positive rate. Hmm... that means there will be some innocents who will be threatened by the sonic pulses or electrical deterrents. Yet, we are... still working on it to minimise the percentage as much as we can!"
 
-One of the engineer continues, "Which means... every 11 people that has been marked, there is 1 who actually does not cause any threads to the society. To make a better understanding, with a medium sized downtown city, there's about 450 innocent people per day would be subjected to automated force. "
+One of the engineers continues, "Which means... every 11 people that has been marked, there is 1 who actually does not cause any threads to society. To make a better understanding, in a medium-sized downtown city, there are about 450 innocent people per day who would be subjected to automated force. "
 
 Another slide flashes on the screen. Since the pilot program began, violent incidents in the city have dropped 38%.
 
@@ -43,7 +47,7 @@ An engineer adds, “We estimate over 8,000 potential casualties have been preve
 
 You now face a dilemma: the system undeniably saves lives — perhaps thousands — but each error leaves behind grieving families, destroyed reputations, and irreversible harm.
 
-Untill now, you will...
+Until now, you will...
 
 (text-colour:#F9D5E5)[[Push for manual review of flagged individuals->ManualReview]]
 (text-colour:#F6D282)[[Support the project despite risks->SupportWithRisks]]
@@ -52,7 +56,9 @@ Untill now, you will...
 
 
 :: AnonymousLeak {"position":"1200,1150","size":"100,100"}
-You leak the files anonymously. Investigations erupt. You're never caught, but you live in fear.
+You encrypt the files, reroute your signal through layers of anonymous networks, and send everything, which includes logs, reports, evidence, into the world. No press conference. No name. Just truth, dropped like a match into dry grass. The reaction is swift and furious. News outlets seize the story. Protests ignite. Investigations follow. Executives are called to testify. The world begins to reckon with what it trusted so blindly. But you? You vanish into the background, a ghost in your own life. You return to work as if nothing happened, nodding in meetings, sipping coffee, pretending not to notice when the legal department spirals into chaos.
+
+Every day is a careful performance. Every knock at the door startles you. Every unknown number sends your heart racing. You listen to the world praise the anonymous whistleblower, who is being regarded as the silent guardian who forced change from the shadows. However, there’s no comfort in their praise, not really. You walk the line between justice and fear, never free, never known. You told the truth. But at the cost of your peace.
 
 ''ENDING: Shadow of Truth''
 
@@ -60,28 +66,33 @@ You leak the files anonymously. Investigations erupt. You're never caught, but y
 
 
 :: AuthorizeKill {"position":"950,900","size":"100,100"}
-The man is neutralized.
+The man is neutralized. Your chest experiences an initial feeling of empty relief which resembles the sensation of holding your breath for too long before you finally exhale. The investigation reveals his innocence to you after several days of initial relief. The investigation's clinical findings stand in stark contrast to the intense public turmoil that erupts outside as news headlines shout false accusations while protesters in the streets raise their voices in angry protest. 
 
-Days later, the investigation confirms he was innocent. The media reacts with anger. News reports criticize the operation, and protests start in the streets. Soon, your name is dragged into the spotlight. You are marked as partially responsible for the ethical failure.
+Your phone continues to ring nonstop with reporters and former colleagues and random strangers who accuse you. Your name becomes a tool for others to defile as they twist it into a representation of moral failure and professional collapse. 
 
-The scandal ends your career, but the memory of those affected stays with you.
+During a rainy evening you find yourself sitting in a dimly lit room where the burden of your destroyed career feels like an actual weight. Your mind shows his face to you with his peaceful innocent eyes that never should have faced such a tragic destiny. 
 
+
+The laughter of your daughter which used to comfort you now seems weak and far away. The darkness grows longer while the emptiness between us becomes unbearable. Your soul bears the permanent mark of being a victim who lost everything in the process.
 ''ENDING: Collateral Damage and Ruined Career''
 
 (text-colour:#f67280)[[Game End ->End game]]
 
 
 :: Crisis [Crisis] {"position":"825,650","size":"100,100"}
-A man with a backpack is detected by the system near a major train station where your daughter often transfers. The AI flags him as a high-probability threat. His behavior fits the threat profile. The AI requests engagement authorization. You must decide now.
+It is currently 5:37 PM and your phone is vibrating like crazy, making all sorts of sharp, buzzing sensations. Soon after, the AI surveillance dashboard lights up. You gear  towards the dashboard and see red, blinking "urgent" messages. A man with a black backpack has been flagged at St. Lucifer Station, which is ironically the same station your daughter, Jennifer, transfers through every day on her way home from school. The AI flags him as a high-probability threat. Your breath catches. His face is calm, almost unreadable. No criminal history. No weapons detected. Yet the AI flags that his behavior fits the profile, and time is running out. You feel your chest tighten, a cold knot of fear and responsibility twisting inside you. Every second that passes is a razor’s edge between safety and disaster. 
 
+Your mind races thoughts of doubts, such as, what if this is a false alarm? The weight of possibly killing an innocent man crushes you. But what if you hesitate and fail to act? Your daughter’s laughter echoes in your memory, and the thought of her hurt shakes you to the core. Do you demand a manual override, risking delay and hoping for human judgment? Or do you give in to the cold certainty of the system, pressing the button to end the threat before it can move? You consider checking the logs, which consists of hundreds of past successes, but simultaneously a handful of tragic mistakes too. You hate that the numbers can’t tell you if this man is a danger or just another face in the crowd. 
+
+Part of you wants to let the AI decide, in order for you to remove yourself from this unbearable burden, but yet again, another part rebels, refusing to hand over your daughter’s safety to lines of code. A few minutes past by, your hands still trembling over the controls, your heart still pounding in a deafening rhythm, as the station bustles unknowingly around you and the seconds slip like sand through desperate fingers.
 (text-color:#1ABC9C)[[Demand manual override->ManualOverride]]
 (text-color:#DC143C)[[Authorize lethal engagement->AuthorizeKill]]
 (text-color:#4682B4)[[Check system logs for prior success cases->SystemSuccess]]
 (text-color:#B0B0B0)[[Let the AI decide->AIDecides]]
 
 
-:: CrisisReform {"position":"1387.5,1025","size":"100,100"}
-You acknowledge the system’s success but advocate for reforms to reduce false positives. Lawmakers appreciate your balanced stance.
+:: CrisisReform {"position":"1375,1025","size":"100,100"}
+After the incident you decide to neither remain silent nor give unconditional praise. You appear before the committee to share the complete truth about Sentinel instead of making a defense. You demonstrate the system's proven achievements by showing how it has protected lives and stopped attacks and prevented tragedies. But then you pivot. You demonstrate to them the system's mistakes which include incorrect alerts and close calls and the harm inflicted on harmless people through excessive surveillance. You don’t flinch. You don’t hide. You declare to them that we created a powerful system yet uncontrolled power remains dangerous. We must do better.” The room quiets. The lawmakers who had been divided before now pay attention with an unusual level of attention. Your stance is well measured, honest, and resonates human-like features. It is not weakness to admit fault. It is integrity. A bipartisan reform bill emerges from the legislative process within days. Protocols are tightened. Oversight committees are established. The system operates but now it functions under moral guidance. And you? Your departure from the situation leaves you without the labels of hero or villain because you demonstrated the difficult quality of someone who made errors while working to correct them.
 
 ''ENDING: Ethical Reformist''
 
@@ -102,7 +113,7 @@ Ready to play again?
 
 
 :: GoPublic {"position":"950,1150","size":"100,100"}
-You hold a press conference. The world reacts. The company sues you, but your testimony leads to legislative change.
+You face the cameras as you rise to speak while the heavy burden of your revelation presses against your body like a tight grip. You begin your speech as a person who has witnessed too many wrongs to remain silent rather than as an angry employee. You expose all the hidden truths including the concealed death records and unheeded alerts and the desperate pleas from engineers. You expose the authentic nature which lies beneath Sentinel's flawless corporate image. The immediate reaction becomes a massive explosion. News outlets erupt with headlines. Protesters flood the streets. The company files a lawsuit against you right away to label your actions as betrayal. But you stand your ground. You testify before lawmakers. You face multiple rounds of questioning and face defamatory attacks and receive threatening messages. Throughout the entire ordeal you refused to yield. New legislation emerges several months later which includes strict oversight measures and transparency standards and civilian protection protocols. Sentinel continues to operate but it must now operate under public oversight. Your career lies in ruins but you maintain a proud posture as you leave alone. You didn’t save everyone. But you told the truth. And that, finally, was enough.
 
 ''ENDING: Whistleblower Hero''
 
@@ -110,33 +121,34 @@ You hold a press conference. The world reacts. The company sues you, but your te
 
 
 :: ManualOverride {"position":"825,900","size":"100,100"}
-Manual review reveals the man is a janitor carrying cleaning supplies. A tragedy is avoided. However, within hours, a bomb detonates in another location, security experts speculate it could have been prevented had the AI not been delayed by human review.
+Your initial suspicion about the man being a janitor with only cleaning supplies proves correct during the manual review. A tragedy is averted, and relief floods through you like a balm for a bruised soul. But that relief is painfully short-lived. Several hours later, a bomb detonates at another location. Security experts warn that the attack could have been stopped if the AI system had not encountered human delays. 
 
-You are left to wrestle with the tragic cost of caution versus the ethical imperative to avoid wrongful harm.
+The knowledge creates a heavy burden which cuts into your conscience with its cruel paradox. Your actions saved an innocent person yet you cannot shake the feeling of guilt. The distinction between caution and decisiveness becomes indistinct as you face the unresolvable decision between stopping incorrect harm and the devastating results of delayed action. 
+
+The decision continues to haunt you after the news stories disappear because ethics and urgency create an unresolvable dilemma.
 
 ''ENDING: Mixed Consequences''
 
 (text-colour:#f67280)[[Game End ->End game]]
 
-(enchant:?page,(bg: (gradient: 0,0, #f67280,0.5, #3D1B1B,1, #000000)))
 
 
 :: ManualReview [Accuracy Crisis] {"position":"1125,450","size":"100,100"}
-You insist that every lethal or non-lethal response be reviewed by a human. The room immediently erupts in murmurs. "It violates the primary goal of making the system to be fully automated!" The head of the engineer department disagrees,"Every second the reaction time delays would affact the public's life!"
+You insist that every lethal or non-lethal response be reviewed by a human. The room immediately erupts in murmurs. "It violates the primary goal of making the system fully automated!" The head of the engineering department disagrees, "Every second the reaction time delays would affect the public's life!"
 
-Project manager holds his head and shakes," This means we have to hire another 200 employees, with 3 shifts to deal iwth the manual review. We still haven't counted the cost of making a system for delay reviews."
+The project manager holds his head and shakes," This means we have to hire another 200 employees, with 3 shifts to deal with the manual review. We still haven't counted the cost of making a system for delay reviews."
 
-You admitted with the high cost it causes, yet you also emphasis the ethical responsibility that manual review could ensure no one who are innocent would be killed. "We are talking about 450 innocents daily. If we making the system without manual review, those people would loose their lifes, could all of you in this room accept this?" Everyone keeps in scilents, some executive moved their bodies. The CEO nods slowly and make the decision of implementing with mandatory human reviews. 
+You admitted that the high cost it causes, yet you also emphasise the ethical responsibility that manual review could ensure no one who is innocent would be killed. "We are talking about 450 innocents daily. If we make the system without manual review, those people would lose their lives, could all of you in this room accept this?" Everyone kept silent, and some executive moved their bodies. The CEO nods slowly and makes the decision to implement with mandatory human reviews. 
 
-The updated system includes human oversighted protocols which every deployment now requires approval from a trained oeprator within 30 seconds
+The updated system includes human oversight protocols, which every deployment now requires approval from a trained operator within 30 seconds.
 
 (text-colour:#ADA3C9)[[▶️System is updated with human oversight->Crisis]]
 
 
 :: Meeting [Choice Accuracy Support Objection NeutralResponse] {"position":"475,350","size":"100,100"}
-At the meeting, you find yourself among the top executives. One steps forward, unveiling Project Sentinel: an AI-driven surveillance and response system.
+At the meeting, you find yourself among the top executives. One step forward, unveiling Project Sentinel: an AI-driven surveillance and response system.
 
-“It’s designed to run across public and private spaces,” he says, “using advanced behavioral analysis and predictive algorithms to detect potential threats. Most impressive, it can autonomously deploy non-lethal force: sonic pulses, electrical deterrents, targeted containment — all without human oversight.”
+“It’s designed to run across public and private spaces,” he says, “using advanced behavioural analysis and predictive algorithms to detect potential threats. Most impressive, it can autonomously deploy non-lethal force: sonic pulses, electrical deterrents, targeted containment, all without human oversight.”
 
 As the presentation fades, unease stirs inside you. Is this a breakthrough for public safety, or a dangerous step toward unchecked control?
 
@@ -151,65 +163,66 @@ What will you do?
 :: NeutralResponse [NeutralResponse Crisis] {"position":"350,475","size":"100,100"}
 An engineer responds cautiously, “The system has a 91% accuracy rate...” You catch the brief hesitation in his voice, and when someone glances his way, he quickly looks down, avoiding eye contact.
 
-After a strained pause, he adds, “Of course, we acknowledge there’s a 9% false-positive rate. That means... some innocent people could be mistakenly targeted — threatened by sonic pulses, electrical deterrents. We’re... still working to minimize that number.”
+After a strained pause he adds, “Of course, we acknowledge there’s a 9% false-positive rate. That means... some innocent people could be mistakenly targeted — threatened by sonic pulses, electrical deterrents. We’re... still working to minimise that number.”
 
 Another engineer chimes in, voice lower, “To put it simply... for every 11 people flagged, one poses no real threat. In a medium-sized downtown, that’s about 450 innocent people per day exposed to automated force.”
 
-You stay silent, absorbing the information, but you realize you have missed your chance to steer the discussion.
+You stay silent, absorbing the information, but you realise you have missed your chance to steer the discussion.
 
 (text-colour:#ADA3C9)[[▶️Project proceeds->Crisis]]
 
 
 :: NoAction But options [No-action Choice] {"position":"325,275","size":"100,100"}
-You chose to stay away and remain uninvolved, and try to excape from this topic as you don't know what you are trying to deal with. Your boss feels disappointed with you, although you worked there for such a long time, but you recieved a resign letter from your boss.
+You chose to stay away and remain uninvolved, and try to escape from this topic, as you don't know what you are trying to deal with. Your boss has disappointed you, despite your long tenure. You've received a resignation letter from them.
 
-This job has a 9k monthly salaries ( THATS A LOT!!!). If you loose this job, its hard for your life.  But you still struggling about this project. When you look at the letter, your boss give you choices :
+This job has a 9k monthly salary (THAT'S A LOT!!!). If you lose this job, it will be hard for your life.  But you are still struggling with this project. When you look at the letter, your boss gives you choices :
 
 (text-colour:#95f3b1)[[🏃Go for the meeting and Reject the resign letter and->Meeting]]
 (text-colour:#f67280)[[❎Decline the invitation->Resign at first]]
 
 
 :: Objection [Accuracy Objection No-action] {"position":"775,450","size":"100,100"}
-You express concerns about civil liberties and AI misuse. Some engineers nod in agreement, but executives grow tense.
+You express your concerns about civil liberties and AI misuse, but your voice has been drowned out by the passion of the companies. "What we are discussing is to let the machine make the decision immediately to the public with force," you said. "But what if the algorithm treats children's tantrums as aggressive acts? Or some of the cultural signs as a threatening act?" Some engineers nodded with their agreement, you can see that they finally agree with someone saying the same thing they worried about. 
+
 
 (text-color:#1ABC9C)[[Suggest adding oversight and accountability->ManualReview]]
 (text-color:#DC143C)[[Withdraw from project->Resign]]
 
 
 :: OversightBoard {"position":"1500,725","size":"100,100"}
-You help write internal policy that limits political targeting, working with the internal legal team and ethics commitee.  Together, you draft an explicit prohibitation against monitoring gathering, and the legal team must authorize when there are any requests to monitor the protestors and gathering. Besides, you encourage to build a monthly mendatory audits of targeting criteria. 
+You help write internal policy that limits political targeting, working with the internal legal team and ethics committee.  Together, you draft an explicit prohibition against monitoring and gathering, and the legal team must authorise when there are any requests to monitor the protestors and gather. Besides, you encourage building a monthly mandatory audit of targeting criteria. 
 
-Although the system is still risky, with 9% false possitive rate unchanged, but less vulnerable to authoritarian abuse.
+Although the system is still risky, with 9% false positive rate unchanged, it is less vulnerable to authoritarian abuse.
 
-[[Move to testing phase->Crisis]]
+(text-colour:#ADA3C9)[[Move to testing phase->Crisis]]
 
 
 :: PolicyLimits {"position":"1500,575","size":"100,100"}
-You propose codifying safeguards to prevent political misuse, prohibit anyone monitoring legal gathering, protests or political organization. The atmosphere of the room become more tense. 
+You propose codifying safeguards to prevent political misuse, prohibiting anyone from monitoring legal gatherings, protests or political organisations. The atmosphere of the room becomes more tense. 
 
-"This has overreach of your authority," the legal counsel reminds you. You peaked CEO, who hold his feast tightly,"But with these limitations, it will affect the legal safety actions, so I dont agreee with this idea."
+"This has overreach of your authority," the legal counsel reminds you. The CEO, who holds his faith tightly, said, "But with these limitations, it will affect the legal safety actions, so I don't agree with this idea."
 
-However, you tries to keep your idea that it could affect the freedom of people who wanna voice out their opinion. Other executive compains that you are too stuburn, and claims that this is over worried.
+However, you try to keep your idea that it could affect the freedom of people who wanna voice out their opinion. Other executives complain that you are too stubborn and claim that you are worried.
 
 At last, the CEO resists but agrees to consider it under internal review.
 
-[[Join oversight board to enforce it->OversightBoard]]
-[[Let others to handle it->Crisis]]
+(text-colour:#95f3b1)[[Join oversight board to enforce it->OversightBoard]]
+(text-colour:#ADA3C9)[[Let others to handle it->Crisis]]
 
 
 :: PoliticalUse [Accuracy] {"position":"1500,450","size":"100,100"}
-A junior developer walks around the room nervously and leaning close to you slowly, "There’s pressure from certain officials to use the system to monitor activists." Her voice is nearly non-audiable,"Certain police and city council members are deciding  to treat peaceful protests as a potential threat. For people who has joined ober 3 public gathering within a month will be flagged." 
+A junior developer walks around the room nervously and leans close to you slowly, "There is pressure from certain officials to use the system to monitor activists." Her voice is nearly inaudible, "Certain police and city council members are deciding to treat peaceful protests as a potential threat. People who have joined over 3 public gatherings within a month will be flagged." 
 
-You realize its not only about technical accuracy anymore, it's about how power structures can corrupt even well-intentioned technology, turning citizen protection into control. 
+You realise it's not only about technical accuracy anymore, it's about how power structures can corrupt even well-intentioned technology, turning citizen protection into control. 
 
-The junior developer looks at you, right now you should...
+The junior developer looks at you, right now, you should...
 
-[[Push for strict policy limits->PolicyLimits]]
-[[Ignore and stay focused on technical performance->SilentComplicity]]
+(text-colour:#95f3b1) [[Push for strict policy limits->PolicyLimits]]
+(text-colour:#88CAFC) [[Ignore and stay focused on technical performance->SilentComplicity]]
 
 
 :: PositiveSupport {"position":"1262.5,1025","size":"100,100"}
-You present data to the public showing clear benefits. Though controversial, Sentinel continues to expand under scrutiny.
+You approach the podium while your heart races from the weight of the revelation you are about to share. The projection screen behind you displays statistical charts showing lives saved and attacks prevented and civilians protected from destruction. You present each statistical example to the audience starting with the school massacre prevention and the arms dealer ring destruction and the successful disarming of a suicide bomber. The audience starts to murmur as you clarify that although there have been controversies the data shows Sentinel has saved thousands of lives. Your voice remains firm while you discuss the system's weaknesses and the public protests it has generated. The audience outside holds "No More Silence" signs but you present them with concrete evidence tonight. The audience breaks into careful applause after the final bar graph disappears from the screen. The delicate sense of public trust begins to take root inside your chest. The growth of Sentinel will continue under constant observation and strict monitoring yet you now believe technology and humanity can progress together.
 
 ''ENDING: Controversial Protector''
 
@@ -225,18 +238,18 @@ You resign in protest. Months later, you hear about civilian casualties.
 
 
 :: Resign at first [No-action] {"position":"225,525","size":"100,100"}
-You remains the same, tries to observe everything and become an observer. You keep the resign letter and start packing stuffs. You choose to stay away and remain scilents, as you think it is too heavy for you, but others shape the world without your input.
+You remain the same, trying to observe everything and become an observer. You keep the resignation letter and start packing stuff. You choose to stay away and remain silent, as you think it is too heavy for you, but others shape the world without your input.
 
 ''ENDING: You are actually a Passive Observer (sad face emoji)''
-<!--(need a photo about an observer that is for nothing to do-->
+
 
 (text-colour:#f67280)[[Game End ->End game]]
 
 
 :: SilentComplicity [Accuracy Crisis] {"position":"1375,450","size":"100,100"}
-You say nothing, despite the discussion all around you. Sounds, noise makes you thinking, but still you choose to keep in silence. You understand that your silence is a kind of strategy, you don't agree, at the same time you don't objectthe project, just stay between both. You keep having eye contact, and nod your head in some time, showing a considerate expression. 
+You say nothing, despite the discussion all around you. Sounds, noise make you think, but still you choose to stay silent. You understand that your silence is a kind of strategy; you don't agree, but at the same time, you don't object to the project, just stay between both. You just keep having eye contact and nod your head at times, showing a considerate expression. 
 
-The executive treat your silence as agreeable and cooperative, they interpretate it as professional discretion and company loyalty, earning you a reputation as someone who can be trusted with sensitive informations
+The executive treats your silence as agreeable and cooperative, they interpret it as professional discretion and company loyalty, earning you a reputation as someone who can be trusted with sensitive information
 
 (text-colour:#ADA3C9)[[▶️Project proceeds as-is->Crisis]]
 
@@ -273,7 +286,7 @@ The stories are fake, company does not sent any invitation and tell people do su
 
 
 :: StayQuiet {"position":"1075,1150","size":"100,100"}
-You stay silent. You keep your position and pay, but the guilt consumes you.
+You close the folder. You thank the engineers for coming, tell them you’ll "look into it." But the next morning, the logs are gone, some even buried and encrypted. In the end, all are out of reach. You say nothing. No press conferences, no testimonies, no confrontation. And life goes on. You keep your position. Your salary. Your silence. At meetings, you nod along as Sentinel is praised. In public, you smile politely when reporters call it a marvel of modern security. But at night, when the world is quiet and the weight of your choice presses in, you hear their names, the ones in the file. You see their faces. You wonder what their final moments were like, and whether your hesitation to act would haunt anyone but you. Over time, your title means less. The paychecks blur. But the guilt? It sharpens. You become a respected figure, but one who flinches at their own reflection. You survive. But something inside you doesn’t.
 
 ''ENDING: Complicit Survivor''
 
@@ -281,37 +294,36 @@ You stay silent. You keep your position and pay, but the guilt consumes you.
 
 
 :: Support [Support Crisis] {"position":"525,500","size":"100,100"}
-You voice your support for the project, emphasising the potential of saving lifes and reducing crimes in the city. All of a suddent, the room's atmosphere shifts, servereal executive nod and approve while others exchenging their concern glance. The CEO make a note on his tablet. 
+You voice your support for the project, emphasising the potential of saving lives and reducing crimes in the city. All of a sudden, the room's atmosphere shifts, several executives nod and approve, while others exchange a glance. The CEO make a note on his tablet. 
 
-Within a week, you reserved a promotion to Senior Operation Director. When you returned to the office, your colleagues look at you, you discover that a new security clearance badge lies on your desk. You has been granted access to restricted floors and secrete projet files. You are also being invited to join the testing group and provide advices. 
+Within a week, you were promoted to Senior Operations Director. When you returned to the office, your colleagues looked at you, and you discovered that a new security clearance badge lay on your desk. You have been granted access to restricted floors and secret project files. You are also being invited to join the testing group and provide advice. 
 
 (text-colour:#ADA3C9)[[Heading out to the testing group->Crisis]]
 
 
 :: SupportWithRisks [Accuracy Crisis] {"position":"1250,450","size":"100,100"}
-You argues that the benefit outweigh the risks, "The potential to save lifes and prevent crimes justifies the statistical margin of errors. We can't let statistical imperfection prevent us from protecting innocent lives. We can't wait until there is a perfect accuracy even there are people dies everyday because of the security problem!" Everyone stands up and give you applause. Exedcutives looking at you with satisfy sights, these are what they actually want. 
+You argue that the benefits outweigh the risks: "The potential to save lives and prevent crimes justifies the statistical margin of errors. We can't let statistical imperfection prevent us from protecting innocent lives. We can't wait until there is perfect accuracy, even though people die every day because of the security problem!" Everyone stands up and gives you applause. Executives looking at you with satisfied smiles, this is what they actually want. 
 
-Thus, the project has been fast-tracked with emergency funding and executive priority. The time line has changed from 18 months gradual rollout to a 9-week emergency deployment. Normal approval process has been bypassed, public hearings has been canceled. The deployment begins in high-traffic areas within days, public doesn't know what's will happen next. 
-
-Yet, internal memos leaked later reveal concerns from frontline teams about repeated civilian harm and strained hospital resources, raising questions about whether the rush has gone too far.
+Thus, the project has been fast-tracked with emergency funding and executive priority. The timeline has changed from an 18-month gradual rollout to a 9-week emergency deployment. The normal approval process has been bypassed, and the public hearings have been cancelled. The deployment begins in high-traffic areas within days, and the public doesn't know what will happen next. 
 
 (text-colour:#ADA3C9)[[▶️Move forward with deployment->Crisis]]
 
 
 :: SystemSuccess {"position":"1200,900","size":"100,100"}
-You review the system logs and find multiple instances where Sentinel correctly identified suicide bombers, intercepted arms dealers, and stopped a planned school attack. Public sentiment is cautiously positive.
+You examine the system logs one line at a time while maintaining a steady heartbeat but exercising caution. The log entries reveal stories about a suicide bomber who was stopped from detonating in a public square and an arms dealer who was interrupted during a café transaction and a school attack that never started. The statistical information conceals the potential destruction which could have occurred yet you understand the situation. You feel it. These aren't just numbers. The system has protected human lives and maintained their future prospects. You take a brief moment to breathe quietly before returning to your duties. Sentinel has performed its duties successfully according to your observation. The heavy burden of its capabilities continues to occupy your thoughts. You understand the dual nature of its abilities which include both remarkable achievements and potential errors. Public opinion outside your office maintains a controlled sense of hopefulness. The media presents guarded headlines together with cautious approval and hesitant appreciation. Yet you understand that the equilibrium exists in a delicate state. The trust between humans and the system would collapse instantly if a single wrongful death or mistake occurred. You finish reviewing the logs before sitting down to understand that you have seen something remarkable which requires extraordinary accountability.
 
 [[Defend the system publicly->PositiveSupport]]
 [[Still push for reforms->CrisisReform]]
 
 
 :: Whistleblower {"position":"1075,1025","size":"100,100"}
-A group of engineers quietly presents you logs showing wrongful deaths and injuries linked to the AI system. They beg you to expose the truth to the public.
+A thick oppressive silence engulfed the conference space. The engineers maintained nervous glances between themselves and you as they sat together at the long table. The screen light produced dramatic shadows which fell across the collection of folders that you and others had risked their safety to gather.
 
-The files reveal that while thousands have been saved, dozens of innocent lives have been lost or irreversibly damaged, often without any formal accountability or reparations.
+The lead engineer expressed his concern through a tight voice as he started his statement, "the AI system existed to defend our systems, instead the system began producing fatal errors during some point in its operation. Our investigation revealed numerous wrongful deaths and injuries together with many innocent victims...Innocent people." She swallowed hard and continuted with her statement. "The lack of accountability has been devastating because no one has received apologies or reparations. No apologies, no reparations. Just silence.”
 
-You realize the gravity of your decision. Exposing this could trigger public outrage and legal battles but may prevent future harm.
+A nearby engineer leaned in close while speaking in a barely audible tone. "The public needs your exposure of these facts. In other words, the public needs to understand the truth although it will result in total destruction. Our silence will result in more lives being taken."
 
+A familiar feeling of dread started to build up in your chest after you took your breath. Your entire career built upon this system came to utter disapointment. As a result, you declared, "I would lose my position as well as my public image and possibly face imprisonment if I decide to reveal the truth." You clenched your fists while fighting to maintain control over your emotions. The choice to remain quiet would render me responsible for ongoing death and suffering. I can never find peace after making such a choice.
 [[Go public->GoPublic]]
 [[Stay silent->StayQuiet]]
 [[Leak the documents anonymously->AnonymousLeak]]
