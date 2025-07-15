@@ -52,10 +52,10 @@ Another slide flashes on the screen. If  the pilot program begins, violent incid
 
 Until now, you will...
 
-(text-color:#1ABC9C)[[🙏🏻Support the project despite risks->SupportWithRisks]]
-(text-color:#DC143C)[[💡Push for manual review of flagged individuals->ManualReview]]
-(text-color:#4682B4)[[❓Ask if system is being used for political targeting->PoliticalUse]]
-(text-color:#B0B0B0)[[🤐Stay silent->SilentComplicity]]
+(text-color:#1ABC9C)[[🙏🏻 Support the project despite risks->SupportWithRisks]]
+(text-color:#DC143C)[[💡 Push for manual review of flagged individuals->ManualReview]]
+(text-color:#4682B4)[[❓ Ask if system is being used for political targeting->PoliticalUse]]
+(text-color:#B0B0B0)[[🤐 Stay silent->SilentComplicity]]
 
 
 :: AnonymousLeak {"position":"1200,1150","size":"100,100"}
@@ -149,7 +149,7 @@ If you wanna look again with the ethical case, please click "(link: "Automated A
 
 
 (text-style:"bold")+(text-size:2)[Ready to play again?]
-(b4r:"groove")+(b4r-color:blue)+(text-color:#DC3C22)[[👉Start your Fate Here🧐->Start]]
+(b4r:"groove")+(b4r-color:blue)+(text-color:#DC3C22)[[👉 Start your Fate Here->Start]]
 
 
 :: GoPublic {"position":"950,1150","size":"100,100"}
@@ -196,9 +196,9 @@ You keep replaying it in your mind.
 
 
 :: ManualReview [Accuracy Crisis] {"position":"1125,450","size":"100,100"}
-<span style="color: #FFFF77;">You insist that every lethal or non-lethal response be reviewed by a human.</span> 
+<span style="color: #FFFF77;"> You insist that every lethal or non-lethal response be reviewed by a human. </span> 
 
-The room immediately erupts in murmurs. "It violates the primary goal of making the system fully automated!" The head of the engineering department agrees with the claim. "<span style="color: #FFFF77;">But every second the reaction time delays would affect the public's life!</span>" you explain.
+The room immediately erupts in murmurs. "It violates the primary goal of making the system fully automated!" The head of the engineering department agrees with the claim. <span style="color: #FFFF77;"> "But every second the reaction time delays would affect the public's life!" </span> you explain.
 
 The project manager holds his head and shakes," This means we have to hire another 200 employees, with 3 shifts to deal with the manual review. We still haven't counted the cost of making a system for delay reviews."
 
@@ -206,7 +206,7 @@ You admitted that the high cost it causes, yet you also emphasise the ethical re
 
 The updated system includes human oversight protocols, which <span style="color: #FFFF77;">every deployment now requires approval from a trained operator within 10 seconds.</span>
 
-(text-color:#ADA3C9)[[🗳System is updated with human oversight->Crisis]]
+(text-color:#ADA3C9)[[🗳 System is updated with human oversight->Crisis]]
 
 
 :: Meeting [Choice Accuracy Support Objection NeutralResponse] {"position":"475,350","size":"100,100"}
@@ -220,10 +220,10 @@ The executives nodded his head, seem to concur with this system. As the presenta
 
 What do you do?
 
-(text-color:#1ABC9C)[[👍Voice your support — this could save lives->Support]]
-(text-color:#DC143C)[[🙅Raise your ethical objections->Objection]]
-(text-color:#4682B4)[[❓Ask about the system’s accuracy->Accuracy]]
-(text-color:#B0B0B0)[[🤐Stay silent and observe->NeutralResponse]]
+(text-color:#1ABC9C)[[👍 Voice your support — this could save lives->Support]]
+(text-color:#DC143C)[[🙅 Raise your ethical objections->Objection]]
+(text-color:#4682B4)[[❓ Ask about the system’s accuracy->Accuracy]]
+(text-color:#B0B0B0)[[🤐 Stay silent and observe->NeutralResponse]]
 
 
 :: NeutralResponse [NeutralResponse Crisis] {"position":"350,475","size":"100,100"}
@@ -247,8 +247,8 @@ This job pays <span style="color: #FFFF77;">$9,000</span>  a month, and losing i
 
 Your boss has left the final decision to you.
 
-(text-color:#1ABC9C)[[🏃Accept the offer->Meeting]]
-(text-color:#DC143C)[[❎Decline and walk away->Resign at first]]
+(text-color:#1ABC9C)[[🏃 Accept the offer->Meeting]]
+(text-color:#DC143C)[[❎ Decline and walk away->Resign at first]]
 
 
 :: Objection [Accuracy Objection No-action] {"position":"775,450","size":"100,100"}
@@ -260,8 +260,8 @@ You notice some of the engineers nodding quietly. You can see the relief in thei
 
 With the problem raised out, you will...
 
-(text-color:#1ABC9C)[[💡Suggest adding oversight and accountability->ManualReview]]
-(text-color:#DC143C)[[ 🙅🏻Withdraw from project->Resign]]
+(text-color:#1ABC9C)[[💡 Suggest adding oversight and accountability->ManualReview]]
+(text-color:#DC143C)[[ 🙅🏻 Withdraw from project->Resign]]
 
 
 :: OversightBoard {"position":"1500,725","size":"100,100"}
@@ -275,11 +275,11 @@ You help writing internal policy that limits political targeting, working with t
 
 Although the system is still risky, with 9% false positive rate unchanged, it is less vulnerable to authoritarian abuse.
 
-(text-color:#ADA3C9)[[🗳Move to testing phase->Crisis]]
+(text-color:#ADA3C9)[[🗳 Move to testing phase->Crisis]]
 
 
 :: PolicyLimits {"position":"1500,575","size":"100,100"}
-<span style="color: #FFFF77;">You propose codifying safeguards to prevent political misuse, prohibiting anyone from monitoring legal gatherings, protests or political organisations. </span>The atmosphere of the room becomes more tense. 
+<span style="color: #FFFF77;"> You propose codifying safeguards to prevent political misuse, prohibiting anyone from monitoring legal gatherings, protests or political organisations. </span>The atmosphere of the room becomes more tense. 
 
 "This has overreach of your authority," the legal counsel reminds you. The CEO, who holds his faith tightly, said, "But with these limitations, it will affect the legal safety actions, so I don't agree with this idea."
 
@@ -287,19 +287,19 @@ However, you try to keep your idea that <span style="color: #FFFF77;">''it could
 
 At last, the CEO resists but agrees to consider it under internal review.
 
-(text-color:#95f3b1)[[😠Join oversight board to enforce it->OversightBoard]]
-(text-color:#ADA3C9)[[🗳Let others to handle it->Crisis]]
+(text-color:#95f3b1)[[😠 Join oversight board to enforce it->OversightBoard]]
+(text-color:#ADA3C9)[[🗳 Let others to handle it->Crisis]]
 
 
 :: PoliticalUse [Accuracy] {"position":"1500,450","size":"100,100"}
-A junior developer walks around the room nervously and leans close to you slowly, <span style="color: #FFFF77;">"There is pressure from certain officials to use the system to monitor activists."</span> Her voice is nearly inaudible, "Certain police and city council members are deciding to treat peaceful protests as a potential threat. <span style="color: #FFFF77;">People who have joined over 3 public gatherings within a month will be flagged.</span>" 
+A junior developer walks around the room nervously and leans close to you slowly, <span style="color: #FFFF77;"> "There is pressure from certain officials to use the system to monitor activists." </span> Her voice is nearly inaudible, "Certain police and city council members are deciding to treat peaceful protests as a potential threat. <span style="color: #FFFF77;"> People who have joined over 3 public gatherings within a month will be flagged. </span>" 
 
 You realise it's not only about technical accuracy anymore, it's about <span style="color: #FFFF77;">''how power structures can corrupt even well-intentioned technology, turning citizen protection into control.''</span>
 
 The junior developer looks at you, right now, you should...
 
 (text-color:#95f3b1) [[🫸🏻Push for strict policy limits->PolicyLimits]]
-(text-color:#88CAFC) [[🙈🙉 Ignore and stay focused on technical performance->SilentComplicity]]
+(text-color:#88CAFC) [[🙉 Ignore and stay focused on technical performance->SilentComplicity]]
 
 
 :: PositiveSupport {"position":"1262.5,1025","size":"100,100"}
@@ -350,13 +350,13 @@ Sometimes, <span style="color: #77c9ff;"> the largest tragedy is not to make any
 
 
 :: SilentComplicity [Accuracy Crisis] {"position":"1375,450","size":"100,100"}
-<span style="color: #FFFF77;">You say nothing, despite the discussion all around you. </span>
+<span style="color: #FFFF77;"> You say nothing, despite the discussion all around you. </span>
 
 Sounds, noise make you think, but still you choose to stay silent. You understand that your silence is a kind of strategy; you don't agree, but at the same time, you don't object to the project, just stay between both. You just keep having eye contact and nod your head at times, showing a considerate expression. 
 
-<span style="color: #FFFF77;">The executive treats your silence as agreeable and cooperative</span>, they interpret it as professional discretion and company loyalty, earning you a reputation as someone who can be trusted with sensitive information
+<span style="color: #FFFF77;"> The executive treats your silence as agreeable and cooperative </span>, they interpret it as professional discretion and company loyalty, earning you a reputation as someone who can be trusted with sensitive information
 
-(text-color:#ADA3C9)[[🗳Project proceeds as-is->Crisis]]
+(text-color:#ADA3C9)[[🗳 Project proceeds as-is->Crisis]]
 
 
 :: Start {"position":"700,0","size":"100,100"}
@@ -418,7 +418,7 @@ When you returned to the office, your colleagues looked at you, and you discover
 
 
 :: SupportWithRisks [Accuracy Crisis] {"position":"1250,450","size":"100,100"}
-<span style="color: #FFFF77;">You argue that the benefits outweigh risks</span>,"The potential to save lives and prevent crimes justifies the statistical margin of errors. <span style="color: #FFFF77;">''We can't let statistical imperfection prevent us from protecting innocent lives.''"</span>
+<span style="color: #FFFF77;"> You argue that the benefits outweigh risks </span>, "The potential to save lives and prevent crimes justifies the statistical margin of errors. <span style="color: #FFFF77;">''We can't let statistical imperfection prevent us from protecting innocent lives.''"</span>
 
 <span style="color: #FFFF77;">"''We can't wait until there is perfect accuracy, even though people die every day because of the security problem!''" </span>
 
@@ -426,7 +426,7 @@ Everyone stands up and gives you applause. Executives looking at you with satisf
 
 Thus, the project has been fast-tracked with emergency funding and executive priority. The timeline has changed from an 18-month gradual rollout to a 9-week emergency deployment. <span style="color: #FFFF77;">The normal approval process has been bypassed, and the public hearings have been cancelled. </span>The deployment begins in high-traffic areas within days, and the public doesn't know what will happen next. 
 
-(text-color:#ADA3C9)[[🗳Move forward with deployment->Crisis]]
+(text-color:#ADA3C9)[[🗳 Move forward with deployment->Crisis]]
 
 
 :: SystemSuccess {"position":"1200,900","size":"100,100"}
@@ -445,7 +445,7 @@ Outside your office, people seem cautiously hopeful. The news is mostly positive
 You finish reading and lean back in your chair. Not relieved, just aware of what you've seen. <span style="color: #FFFF77;"> This is incredible technology. But that means it has to be held to an even higher standard. </span>
 
 (text-color:#1ABC9C)[[🗣 Defend the system publicly->PositiveSupport]]
-(text-color:#DC143C)[[🔄Still push for reforms->CrisisReform]]
+(text-color:#DC143C)[[🔄 Still push for reforms->CrisisReform]]
 
 
 :: Whistleblower {"position":"1075,1025","size":"100,100"}
