@@ -370,8 +370,8 @@ The email outlines <span style="color: #FFFF77;"> national security initiative c
 
 What will you do?
 
-(text-color:#1ABC9C)[[🏃Attend the meeting->Meeting]]
-(text-color:#DC143C)[[❎Decline the invitation->NoAction But options]]
+(text-color:#1ABC9C)[[🏃 Attend the meeting->Meeting]]
+(text-color:#DC143C)[[❎ Decline the invitation->NoAction But options]]
 
 
 :: Start Story Here [Introduciton-] {"position":"500,0","size":"100,100"}
@@ -384,7 +384,7 @@ Team members & Main roles:
 👨🏻‍💼 Project Manager — Samuel Yang
 
 <span style="color: #FFAE77;"> Are you ready to start your fate? </span>
-(b4r:"groove")+(b4r-color:blue)+(text-color:#DC3C22)[[👉Start Your Fate Here🧐->Start]]
+(b4r:"groove")+(b4r-color:blue)+(text-color:#DC3C22)[[👉 Start Your Fate Here->Start]]
 
 
 :: StayQuiet {"position":"1075,1150","size":"100,100"}
