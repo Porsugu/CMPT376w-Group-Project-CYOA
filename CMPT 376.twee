@@ -25,56 +25,59 @@ CMPT 376
 
 
 :: AIDecides {"position":"1075,900","size":"100,100"}
-The AI engages without hesitation. The system operates with calculated precision during the following weeks to detect and destroy numerous targets automatically. The system detected actual threats which existed as dangerous silhouettes. <span style="color: #FFFF77;">The system captured numerous innocent people who became trapped in the unyielding system of suspicion and algorithmic certainty. </span>
+The AI engages without hesitation. Over the next few weeks, it operates with cold precision, automatically detecting and eliminating numerous targets. The system correctly identifies real threats.
 
-<span style="color: #FFFF77">Each case chips away at your conscience. </span>
+<span style="color: #FFFF77;"> But it also captures countless innocent people, trapped in an unyielding web of suspicion and algorithmic certainty. </span> 
 
-You recall the human faces which appeared in statistical reports about the father who never returned home and the teenager who was wrongly identified as a suspect and the elderly woman who remained unproven innocent. 
+Each case chips away at your conscience. 
 
-The media produces increasingly negative reports while protests emerge and <span style="color: #FFFF77;">you remain caught between your admiration for the technology's operational efficiency and your disgust at its unyielding mistakes.</span> You wonder whether you built a defensive system or an evil entity. Your faith in redemption diminishes with each passing life the AI takes as its operational domain expands.
+You remember the human faces appeared in the statistical reports: the father who never came home, the teenager wrongly flagged as a suspect, the elderly woman still waiting to be cleared.
 
-(text-color:#DC143C)[[📢 Whistleblowers approach you with evidence->Whistleblower]]
+The media produces increasingly negative reports while protests emerge and you remain caught between your admiration for the technology's operational efficiency and your disgust at its unyielding mistakes. You can't help but wonder whether you helped build a defensive system or an evil entity. Your faith in redemption diminishes with each passing life the AI takes as its operational domain expands.
+
+(text-color:#ADA3C9)[[📢 Whistleblowers approach you with evidence->Whistleblower]]
+
 
 
 :: Accuracy [Accuracy] {"position":"1100,300","size":"100,100"}
-You feel curious about the accuracy rate of the system's work. An engineer responds, <span style="color: #FFFF77;">"The system has 91% accuracy..."</span> You notice the hesitation of the engineer before answering. When you look at him, he tries to avoid eye contact. 
+You feel curious about the accuracy rate of the system's work. An engineer responds, <span style="color: #FFFF77;"> "The system has 91% accuracy..." </span> You notice the hesitation of the engineer before answering. When you look at him, he tries to avoid eye contact. 
 
-After a short sentence, he continues, "But we do acknowledge <span style="color: #FFFF77;">there’s ''a 9% false-positive rate.'' Hmm... that means there will be some innocents who will be threatened by the sonic pulses or electrical deterrents.</span> Yet, we are... still working on it to minimise the percentage as much as we can!"
+After a short sentence, he continues, "But we do acknowledge <span style="color: #FFFF77;"> there’s'' a 9% false-positive rate.''</span> Hmm... that means there will be some innocents who will be threatened by the sonic pulses or electrical deterrents. Yet, we are... still working on it to minimize the percentage as much as we can!"
 
-One of the engineers continues, "Which means... <span style="color: #FFFF77;">''every 11 people that has been marked, there is 1 who actually does not cause ANY threads to society.''</span> To make a better understanding, in a medium-sized downtown city, there are <span style="color: #FFFF77;">about ''450 innocent people per day'' who would be subjected to automated force. </span>"
+One of the engineers continues, "Which means... <span style="color: #FFFF77;">''every 11 people that has been marked, there is 1 who actually does not cause ANY threads to society.''</span> To make a better understanding, in a medium-sized downtown city, there are <span style="color: #FFFF77;"> about'' 450 innocent people per day'' who would be subjected to automated force. </span>"
 
-Another slide flashes on the screen. If  the pilot program begins, violent incidents in the city will be <span style="color: #FFFF77;">''dropped by 38%''</span>. An engineer adds, “We estimate <span style="color: #FFFF77;">''over 8,000 potential casualties will been prevented this year''</span> alone. Most interventions <span style="color: #FFFF77;">''stop threats in under 2.3 seconds''</span>, far faster than human response.”
+Another slide flashes on the screen. If  the pilot program begins, violent incidents in the city will be <span style="color: #FFFF77;">''dropped by 38%''</span>. An engineer adds, “We estimate <span style="color: #FFFF77;">''over 8,000 potential casualties will been prevented this year alone''</span> . Most interventions stop threats in under 2.3 seconds</span>, far faster than human response.”
 
 //You now face a dilemma: the system undeniably saves lives, perhaps thousands,  but each error leaves behind grieving families, destroyed reputations, and irreversible harm.//
 
 Until now, you will...
 
-(text-colour:#F9D5E5)[[💡Push for manual review of flagged individuals->ManualReview]]
-(text-colour:#F6D282)[[🙏🏻Support the project despite risks->SupportWithRisks]]
-(text-colour:#88CAFC)[[🤐Stay silent->SilentComplicity]]
-(text-colour:#88FCEB)[[❓Ask if system is being used for political targeting->PoliticalUse]]
+(text-color:#1ABC9C)[[🙏🏻Support the project despite risks->SupportWithRisks]]
+(text-color:#DC143C)[[💡Push for manual review of flagged individuals->ManualReview]]
+(text-color:#4682B4)[[❓Ask if system is being used for political targeting->PoliticalUse]]
+(text-color:#B0B0B0)[[🤐Stay silent->SilentComplicity]]
 
 
 :: AnonymousLeak {"position":"1200,1150","size":"100,100"}
-You encrypt everything, logs, reports, all the evidence, and send it out through anonymous networks. No press conference, no signature, no name. Just the truth, set loose like a spark in dry grass.
+You encrypt everything — logs, reports, all the evidence — and send it out through anonymous networks. No press conference. No signature. No name. Just the truth.
 
-It catches fast. News outlets run with it. Crowds gather. Protests erupt. Politicians demand answers. CEOs are hauled in front of Congress. The public finally sees the system for what it is—what they once trusted without question is now under fire.
+It catches fast. News outlets run with it. Crowds gather. Protests erupt. Politicians demand answers. CEOs are hauled before Congress. The public finally sees the system for what it is — what they once trusted without question is now under fire.
 
-And you? You slip back into your everyday routine. You show up to work. Sit through meetings. Sip your coffee. Act like nothing’s changed. You keep your head down while the legal team starts spiraling, pretending you don’t notice their frantic whispers.
+And you? You slip back into your everyday routine. You show up to work. Sit through meetings. Sip your coffee. Act like nothing’s changed. You keep your head down while the legal team spirals, pretending you don’t hear their frantic whispers.
 
-<span style="color: #FFFF77">But every day feels like a performance.</span> Every unexpected knock on your door makes your pulse race. You flinch when your phone rings from an unknown number. People call the whistleblower a hero, someone brave enough to speak up and vanish into the shadows.
+But every day feels like a performance. Every unexpected knock on your door makes your pulse race. You flinch when your phone rings from an unknown number. People call the whistleblower a hero, someone brave enough to speak up and vanish into the shadows.
 
-You hear it all, but it doesn’t make you feel safer. The fear doesn’t go away. <span style="color: #FFFF77">You did the right thing, but now you live in constant tension, unable to tell anyone the truth. </span>
+You hear it all, but it doesn’t make you feel safe. The fear doesn’t go away. <span style="color: #FFFF77"> You did the right thing, but now you live in constant tension, unable to tell anyone the truth. </span>
 
 You can’t relax. You can’t be known. You just keep moving forward, somewhere between pride and paranoia.
 
 (align:"=><=")+(box:"X")+(text-style:"bold")+(text-size:2)[──── The End ────]
-(text-style:"bold")+(text-size:1.5) + (text-colour:#77c9ff)[ENDING: Shadow of Truth 🕵]
+(text-style:"bold")+(text-size:1.5) + (text-color:#77c9ff)[ENDING: Shadow of Truth 🕵]
 
 //Hero always feels lonely. You have chosen the truth over safety, justice over comfort, but you pay the cost of living in fear forever. Your courage makes changes, but it also leaves you with lifelong trauma. Thank you for finding the complexity of moral values and considering doing the right thing and costing yourself. //
 
 
-(text-colour:#f67280)[[⏸️Game End ->End game]]
+(text-color:#f67280)[[⏸️Game End ->End game]]
 
 
 :: AuthorizeKill {"position":"950,900","size":"100,100"}
@@ -87,30 +90,34 @@ During a rainy evening you find yourself sitting in a dimly lit room where the b
 The laughter of your daughter which used to comfort you now seems weak and far away. The darkness grows longer while the emptiness between us becomes unbearable. Your soul bears the permanent mark of being a victim who lost everything in the process.
 
 (align:"=><=")+(box:"X")+(text-style:"bold")+(text-size:2)[──── The End ────]
-(text-style:"bold")+(text-size:1.5) + (text-colour:#77c9ff)[ENDING: Collateral Damage and Ruined Career📉]
+(text-style:"bold")+(text-size:1.5) + (text-color:#77c9ff)[ENDING: Collateral Damage and Ruined Career📉]
 
 //With great power comes great responsibility; some mistakes can never be reversed. Thank you for trying hard to face these difficulties. We appreciated that you thought seriously about the real cost of our choice. 
 ''<span style="color: #77c9ff">Hope we could gain wisdom, and choose humanity instead of efficiency, especially when lives hang in the balance.</span>''//
 
-(text-colour:#f67280)[[⏸️Game End ->End game]]
+(text-color:#f67280)[[⏸️Game End ->End game]]
 
 
 :: Crisis [Crisis] {"position":"825,650","size":"100,100"}
-It's 5:37 PM when your phone won't stop buzzing. Then the AI surveillance dashboard explodes with red alerts. A man with a black backpack just got flagged at St. Lucifer Station.
+It’s 5:37 p.m. when your phone won’t stop buzzing. Then the AI surveillance dashboard flashes with red alerts. A man with a black backpack has just been flagged at St. Lucifer Station.
 
-Your heart drops. That's where Jennifer catches her transfer every day after school.
-The AI says he's high-risk. No weapons, no criminal record. Just acting in a way that matches the pattern. His face looks calm, like nothing's wrong. And you're running out of time.
+Your heart drops. That’s where Jennifer, your daughter, transfers every day after school.
 
-You can barely breathe. 
+The AI has marked him as high-risk. No weapons, no criminal record — just behavior that matches the threat pattern. On screen, his face looks calm, like nothing’s wrong. And you’re running out of time.
 
-<span style="color: #FFFF77;">''What if it's nothing? ''</span>
+Your breath tightens in your chest.
 
-But what if you wait and someone gets killed， what if it's Jennifer? You could do a manual check, but that might be too late. You keep thinking about all those lives the system saved, and the few innocent people who didn't make it.
+<span style="color: #FFFF77;"> What if it’s nothing? </span>
 
-You're staring at the controls, completely torn. Part of you wants to just let the AI handle it, so you don't have to decide. But you can't. Not when it could be her.
-People are walking around the station like everything's normal. The clock keeps ticking, and your hands won't stop shaking.
+But... what if you wait? What if someone gets hurt? What if it’s Jennifer?
 
-You become lost in thought, right now you will ...
+You could order a manual check, but it might come too late. You think about all the lives the system has saved, and the few innocent people it hasn’t.
+
+Your fingers hover over the controls, trembling. Part of you wants to let the AI decide, to step back from the weight of the choice. But you can’t. Not when she’s there.
+
+People keep walking through the station like everything’s fine. The clock keeps ticking, and you can’t stop shaking.
+
+Right now, you have to decide...
 
 (text-color:#1ABC9C)[[💻 Demand manual override->ManualOverride]]
 (text-color:#DC143C)[[✅ Authorize lethal engagement->AuthorizeKill]]
@@ -119,18 +126,18 @@ You become lost in thought, right now you will ...
 
 
 :: CrisisReform {"position":"1375,1025","size":"100,100"}
-After the incident you decide to neither remain silent nor give unconditional praise. You appear before the committee to share the complete truth about Sentinel instead of making a defense. You demonstrate the system's proven achievements by showing how it has protected lives and stopped attacks and prevented tragedies. But then you pivot. You demonstrate to them the system's mistakes which include incorrect alerts and close calls and the harm inflicted on harmless people through excessive surveillance. You don’t flinch. You don’t hide. You declare to them that we created a powerful system yet uncontrolled power remains dangerous. "We must do better.” 
+After the incident, you decide to neither remain silent nor give unconditional praise. <span style="color: #FFFF77;"> You appear before the committee to share the full truth about Sentinel — not a defense, but an honest account. </span> You demonstrate the system's proven achievements by showing how it has protected lives and stopped attacks and prevented tragedies. But then you pivot. You demonstrate the system's mistakes which include incorrect alerts and close calls and the harm inflicted on harmless people through excessive surveillance. You don’t flinch. You don’t hide. You stand before them and say, “We created a powerful system — but uncontrolled power is dangerous. We must do better.”
 
-The room quiets. The lawmakers who had been divided before now pay attention with an unusual level of attention. Your stance is well measured, honest, and resonates human-like features. It is not weakness to admit fault. It is integrity. 
+The room falls quiet. Lawmakers who had been divided now pay close attention. Your stance is measured, honest, and deeply human. It is not weakness to admit fault. It is integrity. 
 
-A bipartisan reform bill emerges from the legislative process within days. Protocols are tightened. Oversight committees are established. The system operates but now it functions under moral guidance. And you? Your departure from the situation leaves you without the labels of hero or villain because you demonstrated the difficult quality of someone who made errors while working to correct them.
+A bipartisan reform bill emerges from the legislative process within days. Protocols are tightened. Oversight committees are established. The system operates but now it functions under moral guidance. And you? <span style="color: #FFFF77;"> Your departure from the situation leaves you without the labels of hero or villain because you demonstrated the difficult quality of someone who made errors while working to correct them. </span>
 
 (align:"=><=")+(box:"X")+(text-style:"bold")+(text-size:2)[──── The End ────]
-(text-style:"bold")+(text-size:1.5) + (text-colour:#77c9ff)[ENDING: Ethical Reformist ⚒]
+(text-style:"bold")+(text-size:1.5) + (text-color:#77c9ff)[ENDING: Ethical Reformist ⚒]
 
 // You did a balance with admitting success and failure. You choose to speak out the truth in detail, not only simply describing it. This means you are helping the system admit its mistakes and promise it will improve them. Your honesty could help Project Sentinel have a better development in future!  // 
 
-(text-colour:#f67280)[[⏸️Game End ->End game]]
+(text-color:#f67280)[[⏸️Game End ->End game]]
 
 
 :: End game [End-Game] {"position":"300,1200","size":"100,100"}
@@ -142,7 +149,7 @@ If you wanna look again with the ethical case, please click "(link: "Automated A
 
 
 (text-style:"bold")+(text-size:2)[Ready to play again?]
-(b4r:"groove")+(b4r-colour:blue)+(text-colour:#DC3C22)[[👉Start your Fate Here🧐->Start]]
+(b4r:"groove")+(b4r-color:blue)+(text-color:#DC3C22)[[👉Start your Fate Here🧐->Start]]
 
 
 :: GoPublic {"position":"950,1150","size":"100,100"}
@@ -159,7 +166,7 @@ Months go by. New laws get passed. Now there are rules about what companies like
 <span style="color: #FFFF77">Your career is done.</span> You're walking away from everything you worked for. You didn't save everyone, <span style="color: #FFFF77">but you did what was right.</span> For the first time in years, that actually feels okay.
 
 (align:"=><=")+(box:"X")+(text-style:"bold")+(text-size:2)[──── The End ────]
-(text-style:"bold")+(text-size:1.5) + (text-colour:#77c9ff)[ENDING: Whistleblower Hero 🦸🏻‍♂️]
+(text-style:"bold")+(text-size:1.5) + (text-color:#77c9ff)[ENDING: Whistleblower Hero 🦸🏻‍♂️]
 
 //You are the rare individuals who choose conscience over comfort. You have chosen the hardest path, not the one you feel good at that moment; you choose the most correct path in the long term. Your willingness to speak truth to power is appreciated, even though you know it would cost you everything. But you still resolutely choose this path. This embodies the highest level of moral courage.//
 
@@ -180,13 +187,12 @@ You keep replaying it in your mind.
 <span style="color: #cfcdf9">//''Should you have trusted the system and acted faster? Or was it right to be cautious, to double-check? ''//</span> 
 
 (align:"=><=")+(box:"X")+(text-style:"bold")+(text-size:2)[──── The End ────]
-(text-style:"bold")+(text-size:1.5) + (text-colour:#77c9ff)[ENDING: Mixed Consequences 😞]
+(text-style:"bold")+(text-size:1.5) + (text-color:#77c9ff)[ENDING: Mixed Consequences 😞]
 
 //''There’s no clean answer. ''Either path ends in someone getting hurt.Even after the headlines fade and the world moves on, it lingers. That impossible choice keeps echoing in your head:
 <span style="color: #77c9ff">''How do you decide between being safe and being fast, when either decision can end in tragedy?''</span>//
 
-(text-colour:#f67280)[[⏸️Game End ->End game]]
-
+(text-color:#f67280)[[⏸️Game End ->End game]]
 
 
 :: ManualReview [Accuracy Crisis] {"position":"1125,450","size":"100,100"}
@@ -200,13 +206,13 @@ You admitted that the high cost it causes, yet you also emphasise the ethical re
 
 The updated system includes human oversight protocols, which <span style="color: #FFFF77;">every deployment now requires approval from a trained operator within 10 seconds.</span>
 
-(text-colour:#ADA3C9)[[🗳System is updated with human oversight->Crisis]]
+(text-color:#ADA3C9)[[🗳System is updated with human oversight->Crisis]]
 
 
 :: Meeting [Choice Accuracy Support Objection NeutralResponse] {"position":"475,350","size":"100,100"}
-You're in the meeting, with the top-tier executives around you. One step ahead, unveiling  <span style="color: #FFFF77;">Project Sentinel: an AI-driven surveillance and response system. </span>
+You are in the meeting, with the top-tier executives around you. One step ahead, unveiling <span style="color: #FFFF77;"> Project Sentinel: an AI-driven surveillance and response system. </span>
 
-"It's going to run over public spaces," he continues, "with advanced behavioural analysis and predictive algorithms to detect threats before they occur. Most impressively,  <span style="color: #FFFF77;"> it can autonomously deploy non-lethal force via sonic pulses, electrical deterrents, targeted containment, all without human involvement.</span>"
+"It's going to run over public spaces," he continues, "with advanced behavioural analysis and predictive algorithms to detect threats before they occur. Most impressively, <span style="color: #FFFF77;"> it can autonomously deploy non-lethal force via sonic pulses, electrical deterrents, targeted containment, all without human involvement.</span>"
 
 The executives nodded his head, seem to concur with this system. As the presentation fades, a feeling of discomfort wells up inside you. 
 
@@ -231,24 +237,26 @@ Another engineer chimes in, voice lower, “To put it simply... for every 11 peo
 
 Hours later, the project is agreed to proceed. 
 
-(text-colour:#ADA3C9)[[🗳 Project proceeds->Crisis]]
+(text-color:#ADA3C9)[[🗳 Project proceeds->Crisis]]
 
 
 :: NoAction But options [No-action Choice] {"position":"325,275","size":"100,100"}
-<span style="color: #FFFF77;">You chose to stay away and remain uninvolved, and try to escape from this topic, </span> as you don't know what you are trying to deal with. Your boss has disappointed you, despite your long tenure. You've received a resignation letter from them.
+You chose to step back and stay uninvolved, unsure of what you were really facing. Your boss is disappointed at you. Despite your long tenure, they were prepared to let you go, but instead, they hand you a letter offering a second chance.
 
-This job has a 9k monthly salary (THAT'S A LOT!!!). If you lose this job, it will be hard for your life.  But you are still struggling with this project. When you look at the letter, your boss gives you choices :
+This job pays <span style="color: #FFFF77;">$9,000</span>  a month, and losing it would make life much harder. And yet, you are still torn over the project, its risks, and its ethics.
 
-(text-colour:#95f3b1)[[🏃Go for the meeting and Reject the resign letter and->Meeting]]
-(text-colour:#f67280)[[❎Decline the invitation->Resign at first]]
+Your boss has left the final decision to you.
+
+(text-color:#1ABC9C)[[🏃Accept the offer->Meeting]]
+(text-color:#DC143C)[[❎Decline and walk away->Resign at first]]
 
 
 :: Objection [Accuracy Objection No-action] {"position":"775,450","size":"100,100"}
-<span style="color: #FFFF77;">You express your concerns about civil liberties and AI misuse, but your voice has been drowned out by the passion of the companies. </span>
+<span style="color: #FFFF77;"> You express your concerns about civil liberties and the risks of AI misuse, but your voice has been drowned out by the enthusiasm of the companies in the room. </span>
 
-"What we are discussing is to let the machine make the decision immediately to the public with force," you said. "But what if the algorithm treats children's tantrums as aggressive acts? Or some of the cultural signs as a threatening act?" 
+"What we're discussing is letting the machine make the decisions immediately to use force on the public," you said. "But what if the algorithm mistakes a child’s tantrum for aggression? Or misinterprets cultural gestures as threatening acts?" 
 
-Some engineers nodded with their agreement, you can see that they finally agree with someone saying the same thing they worried about. 
+You notice some of the engineers nodding quietly. You can see the relief in their faces, realizing someone is finally raising the same concerns they have been carrying.
 
 With the problem raised out, you will...
 
@@ -267,7 +275,7 @@ You help writing internal policy that limits political targeting, working with t
 
 Although the system is still risky, with 9% false positive rate unchanged, it is less vulnerable to authoritarian abuse.
 
-(text-colour:#ADA3C9)[[🗳Move to testing phase->Crisis]]
+(text-color:#ADA3C9)[[🗳Move to testing phase->Crisis]]
 
 
 :: PolicyLimits {"position":"1500,575","size":"100,100"}
@@ -279,8 +287,8 @@ However, you try to keep your idea that <span style="color: #FFFF77;">''it could
 
 At last, the CEO resists but agrees to consider it under internal review.
 
-(text-colour:#95f3b1)[[😠Join oversight board to enforce it->OversightBoard]]
-(text-colour:#ADA3C9)[[🗳Let others to handle it->Crisis]]
+(text-color:#95f3b1)[[😠Join oversight board to enforce it->OversightBoard]]
+(text-color:#ADA3C9)[[🗳Let others to handle it->Crisis]]
 
 
 :: PoliticalUse [Accuracy] {"position":"1500,450","size":"100,100"}
@@ -290,25 +298,25 @@ You realise it's not only about technical accuracy anymore, it's about <span sty
 
 The junior developer looks at you, right now, you should...
 
-(text-colour:#95f3b1) [[🫸🏻Push for strict policy limits->PolicyLimits]]
-(text-colour:#88CAFC) [[🙈🙉 Ignore and stay focused on technical performance->SilentComplicity]]
+(text-color:#95f3b1) [[🫸🏻Push for strict policy limits->PolicyLimits]]
+(text-color:#88CAFC) [[🙈🙉 Ignore and stay focused on technical performance->SilentComplicity]]
 
 
 :: PositiveSupport {"position":"1262.5,1025","size":"100,100"}
-You approach the podium while your heart races from the weight of the revelation you are about to share. The projection screen behind you displays statistical charts showing lives saved and attacks prevented and civilians protected from destruction. You present each statistical example to the audience starting with the school massacre prevention and the arms dealer ring destruction and the successful disarming of a suicide bomber. 
+You approach the podium, your heart racing under the weight of the revelation you’re about to share. The projection screen behind you displays statistical charts showing lives saved and attacks prevented and civilians protected from destruction. You present each statistical example to the audience: the school massacre prevented, the arms dealer ring dismantled, the suicide bomber disarmed before disaster struck.
 
-The audience starts to murmur as you clarify that although there have been controversies the data shows Sentinel has saved thousands of lives. Your voice remains firm while you discuss the system's weaknesses and the public protests it has generated. The audience outside holds "No More Silence" signs but you present them with concrete evidence tonight. 
+The audience starts to murmur as you clarify that although there have been controversies the data shows Sentinel has saved thousands of lives. Your voice remains firm while you discuss the system's weaknesses and the public protests it has generated. The audience outside holds "No More Silence" signs, but you present them with concrete evidence tonight. 
 
-The audience breaks into careful applause after the final bar graph disappears from the screen. <span style="color: #FFFF77;">The delicate sense of public trust begins to take root inside your chest. </span> The growth of Sentinel will continue under constant observation and strict monitoring yet you now <span style="color: #FFFF77;">believe technology and humanity can progress together.</span>
+The audience breaks into careful applause after the final bar graph disappears from the screen. <span style="color: #FFFF77;"> The delicate sense of public trust begins to take root inside your chest. </span> The growth of Sentinel will continue under constant observation and strict monitoring yet you now <span style="color: #FFFF77;"> believe technology and humanity can progress together. </span>
 
 (align:"=><=")+(box:"X")+(text-style:"bold")+(text-size:2)[──── The End ────]
-(text-style:"bold")+(text-size:1.5) + (text-colour:#77c9ff)[ENDING: Controversial Protector 🛡️]
+(text-style:"bold")+(text-size:1.5) + (text-color:#77c9ff)[ENDING: Controversial Protector 🛡️]
 
 //Congratulations! You choose to be pragmatic instead of idealistic. You believe that flawed protection is better than no protection at all. You admitted that the system isn't perfect with data, but at the same time, you emphasise its advantages, which are saving lives, preventing attacks and avoiding disasters. 
 
 <span style="color: #77c9ff;">''You have become an advocate that technology and humanity must coexist.''</span> Remember, the applause is cautious, as everyone knows that ''<span style="color: #77c9ff;">Sentinel could bring cons to us, but it could prevent a larger harm to humans.</span>'' //
 
-(text-colour:#f67280)[[⏸️Game End ->End game]]
+(text-color:#f67280)[[⏸️Game End ->End game]]
 
 
 :: Resign [No-action] {"position":"450,800","size":"100,100"}
@@ -319,11 +327,11 @@ The tension in the room makes it hard to breathe. You realise your concerns are 
 You resign in protest. Months later, you saw the headline of the news and said that "AI system is hunting children in playground", "Elderly have been sent to hospital after automated detention", "Protestors suffer from hearing damage from sonic attacks".  Each news has proven your deepest worries. <span style="color: #FFFF77;">You wonder if staying and fighting with the executive would have prevented some of these tragedies.</span>
 
 (align:"=><=")+(box:"X")+(text-style:"bold")+(text-size:2)[──── The End ────]
-(text-style:"bold")+(text-size:1.5) + (text-colour:#77c9ff)[ENDING: Resigned Conscience 🚫]
+(text-style:"bold")+(text-size:1.5) + (text-color:#77c9ff)[ENDING: Resigned Conscience 🚫]
 
 //You choose moral integrity over career advancement, but with a cost. Your resignation is a personal victory of ethics, but the system has already been deployed secretly.<span style="color: #77c9ff;"> Sometimes the most ethical choice you thought could still lead to the things we wanna prevent happen.</span>//
 
-(text-colour:#f67280)[[⏸️Game End ->End game]]
+(text-color:#f67280)[[⏸️Game End ->End game]]
 
 
 :: Resign at first [No-action] {"position":"225,525","size":"100,100"}
@@ -332,13 +340,13 @@ You remain the same, trying to observe everything and become an observer. You ke
 <span style="color: #FFFF77;">You choose to stay away and remain silent🔇</span>, as you think it is too heavy for you, but others shape the world without your input.
 
 (align:"=><=")+(box:"X")+(text-style:"bold")+(text-size:2)[──── The End ────]
-(text-style:"bold")+(text-size:1.5) + (text-colour:#77c9ff)[Ending: You are actually a Passive Observer 😢]
+(text-style:"bold")+(text-size:1.5) + (text-color:#77c9ff)[Ending: You are a Passive Observer 😢]
 
 //You thought staying out of the fight could let your hands be clean, but doing nothing is also a choice. 
 When you decided to maintain the present status, avoiding any potential arguments, the world is going on without your ethical voice.
 Sometimes, <span style="color: #77c9ff;"> the largest tragedy is not to make any choice instead of making a wrong choice. </span> //
 
-(text-colour:#f67280)[[⏸️ Game End ->End game]]
+(text-color:#f67280)[[⏸️ Game End ->End game]]
 
 
 :: SilentComplicity [Accuracy Crisis] {"position":"1375,450","size":"100,100"}
@@ -348,17 +356,17 @@ Sounds, noise make you think, but still you choose to stay silent. You understan
 
 <span style="color: #FFFF77;">The executive treats your silence as agreeable and cooperative</span>, they interpret it as professional discretion and company loyalty, earning you a reputation as someone who can be trusted with sensitive information
 
-(text-colour:#ADA3C9)[[🗳Project proceeds as-is->Crisis]]
+(text-color:#ADA3C9)[[🗳Project proceeds as-is->Crisis]]
 
 
 :: Start {"position":"700,0","size":"100,100"}
-You are a <span style="color: #FFFF77;">respected engineer</span> at one of the world’s largest companies.
+You are a <span style="color: #FFFF77;"> respected engineer </span> at one of the world’s largest companies.
 
 One morning, as you scroll through your inbox, a strange subject line catches your eye: “Classified Invitation — Project Sentinel” from Sentinel Company.
 
-The email outlines <span style="color: #FFFF77;"> national security initiative claiming it can prevent mass threats. </span>But as you read, doubts creep in — could this powerful system also be misused as a tool of control and harm?
+The email outlines <span style="color: #FFFF77;"> national security initiative claiming it can prevent mass threats. </span> But as you read, doubts creep in — could this powerful system also be misused as a tool of control and harm?
 
-<span style="color: #FFFF77;">You are left with a choice that could change the future. </span>
+<span style="color: #FFFF77;"> You are left with a choice that could change the future. </span>
 
 What will you do?
 
@@ -367,32 +375,29 @@ What will you do?
 
 
 :: Start Story Here [Introduciton-] {"position":"500,0","size":"100,100"}
-This is an interactive <span style="color: #FFFF77;">"Your Choice Your Fate" </span>activity from CMPT 376w Group 15. We are presenting to you a story based on "(link: "Automated Active Response Weaponry")[(goto-url: ' https://www.acm.org/code-of-ethics/case-studies/automated-active-response-weaponry ')]" created by the ACM Committee on Professional Ethics.
+This is an interactive <span style="color: #FFFF77;"> "Your Choice Your Fate" </span> activity from CMPT 376w Group 15. We are presenting to you a story based on "(link: "Automated Active Response Weaponry")[(goto-url: ' https://www.acm.org/code-of-ethics/case-studies/automated-active-response-weaponry ')]" created by the ACM Committee on Professional Ethics.
 
-Team member & Main roles:
-Writer✍🏻  and Twine Designer- Joycelyn Tsang
-Ethics Analyst 🕵🏻 - Anastasiia Kim
-Developer 🧑🏻‍💻 - Arthur Lam 
-Project Manager 👨🏻‍💼-  Samuel Yang
+Team members & Main roles:
+✍🏻 Writer & Twine Designer — Joycelyn Tsang
+🕵🏻 Ethics Analyst — Anastasiia Kim
+🧑🏻‍💻 Developer — Arthur Lam
+👨🏻‍💼 Project Manager — Samuel Yang
 
 <span style="color: #FFAE77;"> Are you ready to start your fate? </span>
-(b4r:"groove")+(b4r-colour:blue)+(text-colour:#DC3C22)[[👉Start your Fate Here🧐->Start]]
-
+(b4r:"groove")+(b4r-color:blue)+(text-color:#DC3C22)[[👉Start Your Fate Here🧐->Start]]
 
 
 :: StayQuiet {"position":"1075,1150","size":"100,100"}
-You close the folder. You thank the engineers for coming, tell them you’ll "look into it." But the next morning, <span style="color: #FFFF77;">the logs are gone</span>, some even buried and encrypted. In the end, all are out of reach. You say nothing. No press conferences, no testimonies, no confrontation. And life goes on. <span style="color: #FFFF77;">You keep your position. Your salary. Your silence. </span>
+You close the folder. You thank the engineers for coming, tell them you’ll "look into it." But the next morning, <span style="color: #FFFF77;"> the logs are gone </span> — some buried, some encrypted, all out of reach. You say nothing. No press conference. No testimony. No confrontation. Life goes on. You keep your position. Your salary. Your silence.
 
-At meetings, you nod along as Sentinel is praised. In public, you smile politely when reporters call it a marvel of modern security. But at night, when the world is quiet and the weight of your choice presses in, you hear their names, the ones in the file. You see their faces. You wonder what their final moments were like, and whether your hesitation to act would haunt anyone but you. 
+At meetings, you nod along as Sentinel is praised. In public, you smile politely when reporters call it a marvel of modern security. But at night, when the world is quiet and the weight of your choice settles over you, you hear their names — the ones in the file. You see their faces. You wonder what their final moments were like, and whether your hesitation will haunt anyone but you.
 
-Over time, your title means less. The paychecks blur. But the guilt? It sharpens. 
+Over time, your title means less. The paychecks blur. But the guilt? It sharpens.
 
-<span style="color: #FFFF77">You become a respected figure, but one who flinches at their own reflection. 
-
-You survive. But something inside you doesn’t.</span>
+<span style="color: #FFFF77"> You become a respected figure, but one who flinches at their own reflection. You survive. But something inside you doesn’t. </span>
 
 (align:"=><=")+(box:"X")+(text-style:"bold")+(text-size:2)[──── The End ────]
-(text-style:"bold")+(text-size:1.5) + (text-colour:#77c9ff)[ENDING: Complicit Survivor😵‍💫]
+(text-style:"bold")+(text-size:1.5) + (text-color:#77c9ff)[ENDING: Complicit Survivor 😵‍💫]
 
 //You have chosen the silent tragedy over justice. It's not a dramatic failure of making a wrong choice, but just that you have chosen the long-term poison of not doing anything. <span style="color: #77c9ff">''You survived, but you pay the cost of your soul.'' </span>
 
@@ -409,7 +414,7 @@ You keep this in mind, no matter how painful it is.'' </span>//
 
 When you returned to the office, your colleagues looked at you, and you discovered that a new security clearance badge lay on your desk. You have been granted access to restricted floors and secret project files. <span style="color: #FFFF77;"> You are also being invited to join the testing group and provide advice. </span>
 
-(text-colour:#ADA3C9)[[🗳 Walking to the testing group office->Crisis]]
+(text-color:#ADA3C9)[[🗳 Walking to the testing group office->Crisis]]
 
 
 :: SupportWithRisks [Accuracy Crisis] {"position":"1250,450","size":"100,100"}
@@ -421,53 +426,38 @@ Everyone stands up and gives you applause. Executives looking at you with satisf
 
 Thus, the project has been fast-tracked with emergency funding and executive priority. The timeline has changed from an 18-month gradual rollout to a 9-week emergency deployment. <span style="color: #FFFF77;">The normal approval process has been bypassed, and the public hearings have been cancelled. </span>The deployment begins in high-traffic areas within days, and the public doesn't know what will happen next. 
 
-(text-colour:#ADA3C9)[[🗳Move forward with deployment->Crisis]]
+(text-color:#ADA3C9)[[🗳Move forward with deployment->Crisis]]
 
 
 :: SystemSuccess {"position":"1200,900","size":"100,100"}
-You go through the system logs one by one, taking your time but staying focused. Your heart stays steady even though your mind is racing. Each entry is more than just data - it's a story about disaster that almost happened.
+You go through the system logs one by one, taking your time but staying focused. Your heart stays steady, even though your mind is racing. Each entry is more than just data — it's a story of disaster that almost happened.
 
-A suicide bomber stopped before he reached a crowded square. An arms dealer caught in the middle of a deal at some quiet café. A school attack that got shut down before it even started.
+A suicide bomber stopped before reaching a crowded square. An arms dealer caught in the middle of a deal at a quiet cafe. A school attack shut down before it ever began.
 
-The numbers don't tell you about the chaos that could have been. But you can see it. You can feel it. <span style="color: #FFFF77;">These aren't just statistics, they're actual lives, futures that still exist, families that are still together.</span>
+The numbers don’t show you the chaos that might have been. But you can see it. You can feel it. <span style="color: #FFFF77;"> These aren’t just statistics — they’re lives still lived, families still whole, futures still intact. </span>
 
-You let yourself breathe for a second. Then you get back to work. By every measure, Sentinel is doing what it's supposed to do. It's protecting people. The logs make that pretty clear. But you can't shake the feeling of how much power this thing has. You know better than anyone that it cuts both ways. Every success comes with the possibility of something going terribly wrong.
+You let yourself breathe, just for a second. Then you get back to work. By every measure, Sentinel is doing what it's supposed to do. It's protecting people. The logs make that pretty clear. But you can't shake the feeling of how much power this thing has. You know better than anyone that it cuts both ways. Every success comes with the possibility of something going terribly wrong.
 
-Outside your office, people seem cautiously hopeful. The news is mostly positive. Commentators are giving it careful praise. But you know how easily that could change. 
+Outside your office, people seem cautiously hopeful. The news is mostly positive. Commentators offer careful praise. But you know how quickly that could change. 
 
-<span style="color: #FFFF77;">One mistake. 
-One innocent person dies. 
-That's all it would take for everyone to turn against the system. </span>
+<span style="color: #FFFF77;"> One mistake. One innocent person dies. That's all it would take for everyone to turn against the system. </span>
 
-You finish looking through everything and lean back in your chair. Not relieved, just aware of what you've seen. <span style="color: #FFFF77;">This is incredible technology. But that means it has to be held to an even higher standard.</span>
+You finish reading and lean back in your chair. Not relieved, just aware of what you've seen. <span style="color: #FFFF77;"> This is incredible technology. But that means it has to be held to an even higher standard. </span>
 
 (text-color:#1ABC9C)[[🗣 Defend the system publicly->PositiveSupport]]
 (text-color:#DC143C)[[🔄Still push for reforms->CrisisReform]]
 
 
-:: Untitled Passage {"position":"1700,675","size":"100,100"}
-It is currently 5:37 PM and your phone is vibrating like crazy, making all sorts of sharp, buzzing sensations. Soon after, the AI surveillance dashboard lights up. You gear  towards the dashboard and see red, blinking "urgent" messages. A man with a black backpack has been flagged at St. Lucifer Station, which is ironically the same station your daughter, Jennifer, transfers through every day on her way home from school. The AI flags him as a high-probability threat. Your breath catches. His face is calm, almost unreadable. No criminal history. No weapons detected. Yet the AI flags that his behavior fits the profile, and time is running out. You feel your chest tighten, a cold knot of fear and responsibility twisting inside you. Every second that passes is a razor’s edge between safety and disaster. 
-
-Your mind races thoughts of doubts, such as, what if this is a false alarm? The weight of possibly killing an innocent man crushes you. But what if you hesitate and fail to act? Your daughter’s laughter echoes in your memory, and the thought of her hurt shakes you to the core. Do you demand a manual override, risking delay and hoping for human judgment? Or do you give in to the cold certainty of the system, pressing the button to end the threat before it can move? You consider checking the logs, which consists of hundreds of past successes, but simultaneously a handful of tragic mistakes too. You hate that the numbers can’t tell you if this man is a danger or just another face in the crowd. 
-
-
-
 :: Whistleblower {"position":"1075,1025","size":"100,100"}
-A thick oppressive silence engulfed the conference space. The engineers maintained nervous glances between themselves and you as they sat together at the long table. The screen light produced dramatic shadows which fell across the collection of folders that you and others had risked their safety to gather.
+A thick, oppressive silence filled the conference room. The engineers sat tensely around the long table, exchanging anxious glances between themselves and you. The screen light produced dramatic shadows, falling across the collection of folders that you and others had risked so much to collect.
 
-The lead engineer expressed his concern through a tight voice as he started his statement, "the AI system existed to defend our systems, instead the system began producing fatal errors during some point in its operation. Our investigation revealed numerous wrongful deaths and injuries together with many innocent victims...Innocent people." She swallowed hard and continuted with her statement. <span style="color: #FFFF77">"The lack of accountability has been devastating because ''no one has received apologies or reparations''. No apologies, no reparations. Just silence."</span>
+The lead engineer expressed his concern through a tight voice as she started her speech, “The AI system existed to defend our systems. Instead, the system began producing fatal errors at some point in its operation. Our investigation revealed numerous wrongful deaths and injuries, together with many innocent victims... innocent people.” She swallowed hard and continued with her statement. <span style="color: #FFFF77"> “The lack of accountability has been devastating because ''no one has received apologies or reparations''. Just silence.” </span>
 
-A nearby engineer leaned in close while speaking in a barely audible tone. 
+A nearby engineer leaned in, his voice barely more than a whisper. “The public needs your exposure of these facts. In other words, the public needs to understand the truth, although it will result in total destruction. <span style="color: #FFFF77"> If we stay silent, more lives will be lost. </span>”
 
-<span style="color: #FFFF77">''"The public needs your exposure of these facts. "''</span>
+A familiar feeling of dread started to build up in your chest after you took a breath. Your entire career, built upon this system, came to utter disappointment. As a result, you declared, <span style="color: #fd2550"> ''“I would lose my position as well as my public image and possibly face imprisonment if I decide to reveal the truth.”'' </span>
 
-"In other words, the public needs to understand the truth although it will result in total destruction. Our silence will result in more lives being taken."
-
-A familiar feeling of dread started to build up in your chest after you took your breath. Your entire career built upon this system came to utter disapointment. As a result, you declared, 
-
-<span style="color: #fd2550">''"I would lose my position as well as my public image and possibly face imprisonment if I decide to reveal the truth."</span>''
-
-You clenched your fists while fighting to maintain control over your emotions. The choice to remain quiet would render me responsible for ongoing death and suffering. I can never find peace after making such a choice.
+You clenched your fists, fighting to maintain control over your emotions. The choice to remain quiet would render you responsible for ongoing death and suffering. You can never find peace after making such a choice.
 
 (text-color:#1ABC9C)[[🗣 Go public->GoPublic]]
 (text-color:#B0B0B0)[[🤐 Stay silent->StayQuiet]]
